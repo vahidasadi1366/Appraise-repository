@@ -1,0 +1,13 @@
+{
+    "CAMPAIGN_URL": "http://127.0.0.1:8000/dashboard/sso/",
+    "CAMPAIGN_NAME": "LongDocument",
+    "CAMPAIGN_KEY": "c4",
+    "CAMPAIGN_NO": 4,
+    "REDUNDANCY": 1,
+
+    "TASKS_TO_ANNOTATORS": [
+        ["eng", "spa", "uniform",  1, 1]
+    ],
+
+    "TASK_TYPE": "LongDocument"
+}

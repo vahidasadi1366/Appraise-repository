@@ -1,0 +1,636 @@
+<?xml version="1.0" ?>
+<dataset>
+  <collection id="general">
+    <doc corpus="wmttest2023.en-zh.all" domain="news" id="guardian.114833" origlang="en">
+      <src lang="en">
+        <p>
+          <seg id="1">Jared O'Mara should never have been a Labour candidate, says Rachel Reeves</seg>
+        </p>
+        <p>
+          <seg id="2">The disgraced former MP Jared O'Mara &quot;should never have been selected as a Labour candidate&quot; and deserves his four-year jail sentence, the shadow chancellor has said.</seg>
+        </p>
+        <p>
+          <seg id="3">Rachel Reeves was talking to the Guardian in the Bolton North East constituency on Friday, hours after key figures in the local party quit in protest at how Labour's national executive committee (NEC) was controlling the parliamentary selection process for the next general election.</seg>
+        </p>
+        <p>
+          <seg id="4">The entire selection committee in Bolton North East resigned after they were not allowed to choose the shortlist, an increasingly common practice in Keir Starmer's Labour party, saying: &quot;Yet again, it appears that the Labour party is seeking to promote the views and attitudes of a clique in London, rather than local members in the north.&quot;</seg>
+        </p>
+        <p>
+          <seg id="5">They added: &quot;This goes against the attitude necessary to win back the red wall, which is so desperately needed to deliver a Labour government.&quot;</seg>
+        </p>
+        <p>
+          <seg id="6">Reeves said: &quot;I don't know what the circumstances are of what has happened in Bolton, but I do know that those being selected are strong candidates, often with very strong roots in their communities.&quot;</seg>
+        </p>
+        <p>
+          <seg id="7">There has been particular unhappiness that Leigh Drennan, the chair of Labour North West and aide to the Jeremy Corbyn-supporting Warrington North MP Charlotte Nichols, was not longlisted to try to win the seat back from the Conservatives, despite garnering nominations from four big trade unions.</seg>
+        </p>
+        <p>
+          <seg id="8">Reeves said she had nothing to do with candidate selection, but added: &quot;I do know that it's really important that we have rigorous processes for who can be longlisted and who can be shortlisted.&quot;</seg>
+        </p>
+        <p>
+          <seg id="9">O'Mara was imprisoned for four years this week after a jury found he had submitted fake expense claims totalling £52,000 in an attempt to fund his cocaine and alcohol abuse.</seg>
+        </p>
+        <p>
+          <seg id="10">Many people have suggested he was not properly vetted by Labour when he was selected to fight Nick Clegg, the former Liberal Democrat deputy prime minister, in Sheffield Hallam in 2017&quot;s snap general election.</seg>
+        </p>
+        <p>
+          <seg id="11">Asked if the O'Mara debacle was looming large in the minds of Labour's NEC, Reeves said: &quot;I don't want to suggest in any way that anyone not on a shortlist is a cocaine user.</seg>
+        </p>
+        <p>
+          <seg id="12">But Jared O'Mara was a terrible case.</seg>
+        </p>
+        <p>
+          <seg id="13">He should never have been selected as a Labour candidate; he should never have been an MP.</seg>
+        </p>
+        <p>
+          <seg id="14">He used public money, it's absolutely right he's received his sentence.&quot;</seg>
+        </p>
+        <p>
+          <seg id="15">The O'Mara circumstances were &quot;pretty exceptional,&quot; said Reeves, but she acknowledged: &quot;There are important lessons to be learned for the Labour party and all political parties on the selection of candidates.</seg>
+        </p>
+        <p>
+          <seg id="16">But I would also say, in this parliament we have seen the constant undermining of standards in politics, not least by a succession of prime ministers and fines and parties and standards falling well short of what you could expect.&quot;</seg>
+        </p>
+        <p>
+          <seg id="17">She added: &quot;&quot;One thing I would say about the Labour party is that when people do wrong, they lose the whip. And that's just not the case in the Conservative party.&quot;</seg>
+        </p>
+        <p>
+          <seg id="18">Archie Bland and Nimo Omer take you through the top stories and what they mean, free every weekday morning.</seg>
+        </p>
+        <p>
+          <seg id="19">Privacy Notice: Newsletters may contain info about charities, online ads, and content funded by outside parties.</seg>
+        </p>
+        <p>
+          <seg id="20">For more information see our Privacy Policy.</seg>
+        </p>
+        <p>
+          <seg id="21">We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply.</seg>
+        </p>
+        <p>
+          <seg id="22">Reeves was in Bolton to meet apprentices at a training centre for Openreach, which provides the UK's broadband network.</seg>
+        </p>
+        <p>
+          <seg id="23">After watching apprentices climb up pretend telegraph poles at the £1.7m site, Reeves discussed Labour's plans to overhaul the apprenticeship levy, which forces larger firms to put aside 0.5% of their payroll to fund apprentices.</seg>
+        </p>
+        <p>
+          <seg id="24">Businesses complain the levy is too inflexible. For example, said Reeves, Openreach &quot;wants to retrain people who work on copper to work on fibre, but the apprenticeship levy doesn't have that flexibility around retraining.&quot;</seg>
+        </p>
+        <p>
+          <seg id="25">Reeves said Labour would change the levy so companies could use the money to retrain employees in industries such as the automotive sector and those currently fitting gas boilers.</seg>
+        </p>
+        <p>
+          <seg id="26">&quot;We need them as part of the energy transition to net zero to be learning the skills to work on electric vehicles or fitting heat pumps or hydrogen boilers.</seg>
+        </p>
+        <p>
+          <seg id="27">We want those people to be retrained to get the skills that they need to succeed.</seg>
+        </p>
+        <p>
+          <seg id="28">And yet the apprenticeship levy is stacked up against them.</seg>
+        </p>
+        <p>
+          <seg id="29">Businesses want greater flexibility and young people starting off in life or older people who want to retrain to make sure that their skills are relevant for the future,&quot; said Reeves.</seg>
+        </p>
+        <p/>
+      </src>
+      <hyp lang="spa" system="google">
+        <p>
+          <seg id="1">Jared O'Mara nunca debería haber sido candidata laborista, dice Rachel Reeves</seg>
+          <seg id="2">El ex diputado deshonrado Jared O'Mara &quot;nunca debería haber sido seleccionado como candidato laborista&quot; y merece su sentencia de cárcel de cuatro años, dijo el canciller en la sombra.</seg>
+          <seg id="3">Rachel Reeves estaba hablando con The Guardian en la circunscripción del noreste de Bolton el viernes, horas después de que las cifras clave en el partido local dejaran de protestar por cómo el Comité Ejecutivo Nacional de Labor (NEC) estaba controlando el proceso de selección parlamentaria para las próximas elecciones generales.</seg>
+          <seg id="4">Todo el comité de selección en Bolton North East renunció después de que no se les permitió elegir la lista corta, una práctica cada vez más común en el Partido Laborista de Keir Starmer, diciendo: &quot;Una vez más, parece que el Partido Laborista está buscando promover las opiniones y actitudes deUna camarilla en Londres, en lugar de miembros locales en el norte &quot;.</seg>
+          <seg id="5">Agregaron: &quot;Esto va en contra de la actitud necesaria para recuperar el Muro Rojo, que es tan desesperadamente necesario para entregar un gobierno laborista&quot;.</seg>
+          <seg id="6">Reeves dijo: &quot;No sé cuáles son las circunstancias de lo que ha sucedido en Bolton, pero sí sé que los seleccionados son candidatos fuertes, a menudo con raíces muy fuertes en sus comunidades&quot;.</seg>
+          <seg id="7">Ha habido una infelicidad particular de que Leigh Drennan, presidente de Labor North West y asistente de la diputada de Warrington North Nichols, que respalda a Jeremy Corbyn.sindicatos.</seg>
+          <seg id="8">Reeves dijo que no tenía nada que ver con la selección de candidatos, pero agregó: &quot;Sé que es realmente importante que tengamos procesos rigurosos para quién puede ser lista larga y quién puede ser preseleccionado&quot;.</seg>
+          <seg id="9">O'Mara fue encarcelado durante cuatro años esta semana después de que un jurado descubrió que había presentado reclamos de gastos falsos por un total de £ 52,000 en un intento de financiar su abuso de cocaína y alcohol.</seg>
+          <seg id="10">Muchas personas han sugerido que no fue examinado adecuadamente por los laboristas cuando fue seleccionado para luchar contra Nick Clegg, el ex viceprimer ministro demócrata liberal, en Sheffield Hallam en las elecciones generales de 2017 &quot;.</seg>
+          <seg id="11">Cuando se le preguntó si la debacle de O'Mara se avecinaba en la mente del NEC de Labor, Reeves dijo: &quot;No quiero sugerir de ninguna manera que cualquiera que no esté en una lista es un usuario de cocaína.</seg>
+          <seg id="12">Pero Jared O'Mara fue un caso terrible.</seg>
+          <seg id="13">Nunca debería haber sido seleccionado como candidato laborista;Nunca debería haber sido MP.</seg>
+          <seg id="14">Usó dinero público, es absolutamente correcto que haya recibido su sentencia &quot;.</seg>
+          <seg id="15">Las circunstancias de O'Mara fueron &quot;bastante excepcionales&quot;, dijo Reeves, pero ella reconoció: &quot;Hay lecciones importantes para el Partido Laborista y todos los partidos políticos sobre la selección de candidatos.</seg>
+          <seg id="16">Pero también diría que, en este parlamento, hemos visto el constante debilitamiento de los estándares en la política, sobre todo por una sucesión de primeros ministros, multas y fiestas y estándares que no se pueden esperar de lo que podrías esperar &quot;.</seg>
+          <seg id="17">Ella agregó: &quot;&quot; Una cosa que diría sobre el Partido Laborista es que cuando las personas hacen mal, pierden el látigo.Y ese no es el caso en el Partido Conservador &quot;.</seg>
+          <seg id="18">Archie Bland y Nimo Omer lo llevan a través de las principales historias y lo que significan, gratis cada mañana de los días de semana.</seg>
+          <seg id="19">Aviso de privacidad: los boletines pueden contener información sobre organizaciones benéficas, anuncios en línea y contenido financiado por partes externas.</seg>
+          <seg id="20">Para obtener más información, consulte nuestra Política de privacidad.</seg>
+          <seg id="21">Utilizamos Google Recaptcha para proteger nuestro sitio web y se aplican la Política de privacidad de Google y los Términos de servicio.</seg>
+          <seg id="22">Reeves estaba en Bolton para reunirse con aprendices en un centro de capacitación para OpenReach, que proporciona la red de banda ancha del Reino Unido.</seg>
+          <seg id="23">Después de ver a los aprendices escalar postes de telégrafos de pretend en el sitio de £ 1.7 millones, Reeves discutió los planes de Labor para revisar el gravamen de aprendizaje, lo que obliga a las empresas más grandes a dejar de lado el 0.5% de su nómina para financiar los aprendices.</seg>
+          <seg id="24">Las empresas se quejan de que el impuesto es demasiado inflexible.Por ejemplo, dijo Reeves, OpenReach &quot;quiere volver a capacitar a las personas que trabajan en cobre para trabajar en fibra, pero el gravamen de aprendizaje no tiene esa flexibilidad en torno a la reentrenamiento&quot;.</seg>
+          <seg id="25">Reeves dijo que los laboristas cambiarían el impuesto para que las empresas pudieran usar el dinero para volver a capacitar a los empleados en industrias como el sector automotriz y aquellos que actualmente se ajustan a las calderas de gas.</seg>
+          <seg id="26">&quot;Los necesitamos como parte de la transición de energía a Net Zero para aprender las habilidades para trabajar en vehículos eléctricos o adaptando bombas de calor o calderas de hidrógeno.</seg>
+          <seg id="27">Queremos que esas personas se vuelvan a entrenar para obtener las habilidades que necesitan para tener éxito.</seg>
+          <seg id="28">Y, sin embargo, el recuerdo de aprendizaje está apilado contra ellos.</seg>
+          <seg id="29">Las empresas quieren una mayor flexibilidad y a los jóvenes que comienzan en personas de la vida o mayores que desean volver a capacitarse para asegurarse de que sus habilidades sean relevantes para el futuro &quot;, dijo Reeves.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="wmttest2023.en-zh.all" domain="news" id="latimes.160867" origlang="en">
+      <src lang="en">
+        <p>
+          <seg id="1">'Yellowstone' actor Q'orianka Kilcher beats fraud charges</seg>
+        </p>
+        <p>
+          <seg id="2">Attorney Camille Vasquez, who represented Johnny Depp in last year's blockbuster defamation trial, has scored another legal victory - this time with &quot;Yellowstone&quot; actor Q'orianka Kilcher.</seg>
+        </p>
+        <p>
+          <seg id="3">On Friday, the Los Angeles County district attorney's office cleared Kilcher, 32, of all charges in a workers&quot; compensation fraud case.</seg>
+        </p>
+        <p>
+          <seg id="4">In a statement shared Friday with The Times, a spokesperson for the Los Angeles County district attorney said the court &quot;determined that Ms. Kilcher did not commit insurance fraud and advised the court that we were unable to proceed.&quot;</seg>
+        </p>
+        <p>
+          <seg id="5">In July 2022, California officials charged Kilcher with two felony counts of workers&quot; compensation fraud, accusing her of illegally collecting more than $96,000 in disability benefits between October 2019 and September 2021.</seg>
+        </p>
+        <p>
+          <seg id="6">The time frame also includes several months when Kilcher worked on &quot;Yellowstone,&quot; despite the actor's claims that she was too injured to work.</seg>
+        </p>
+        <p>
+          <seg id="7">Kilcher self-surrendered and was arraigned in May.</seg>
+        </p>
+        <p>
+          <seg id="8">&quot;Today, I am beyond grateful that my case has been dismissed - tomorrow my journey begins to help raise awareness and demand more transparency for worker's rights within the workers comp system&quot; Kilcher said Friday in a statement shared with The Times.</seg>
+        </p>
+        <p>
+          <seg id="9">She added that she &quot;look[s] forward to shedding more light on this experience and continuing to do the work I love.&quot;</seg>
+        </p>
+        <p>
+          <seg id="10">Kilcher also thanked Vasquez and her fellow Brown Rudnick attorney Steve Cook for &quot;their steadfast belief in my innocence.&quot;</seg>
+        </p>
+        <p>
+          <seg id="11">According to TMZ, Kilcher hired the two in September.</seg>
+        </p>
+        <p>
+          <seg id="12">Kilcher broke out with Terrence Malick's 2002 movie &quot;The New World,&quot; where she portrayed Pocahontas.</seg>
+        </p>
+        <p>
+          <seg id="13">Her credits also include &quot;Sons of Anarchy,&quot; &quot;The Alienist&quot; and &quot;Dora and the Lost City of Gold.&quot;</seg>
+        </p>
+        <p>
+          <seg id="14">She most recently appeared in the road-trip film &quot;Dog,&quot; starring Channing Tatum.</seg>
+        </p>
+        <p>
+          <seg id="15">Times staff writer Christina Martinez contributed to this report.</seg>
+        </p>
+        <p/>
+      </src>
+      <hyp lang="spa" system="google">
+        <p>
+          <seg id="1">El actor de 'Yellowstone' Q'orianka Kilcher vence a los cargos de fraude</seg>
+          <seg id="2">La abogada Camille Vásquez, quien representó a Johnny Depp en el exitoso juicio de difamación del año pasado, ha obtenido otra victoria legal, esta vez con el actor de &quot;Yellowstone&quot; Q'orianka Kilcher.</seg>
+          <seg id="3">El viernes, la Oficina del Fiscal de Distrito del Condado de Los Ángeles despejó a Kilcher, de 32 años, de todos los cargos en un caso de fraude de compensación de los trabajadores.</seg>
+          <seg id="4">En un comunicado compartido el viernes con The Times, un portavoz del Fiscal de Distrito del Condado de Los Ángeles dijo que el tribunal &quot;determinó que la Sra. Kilcher no cometió fraude de seguros y aconsejó al tribunal que no pudimos proceder&quot;.</seg>
+          <seg id="5">En julio de 2022, los funcionarios de California acusaron a Kilcher de dos delitos graves de fraude de compensación de los trabajadores, acusándola de recaudar ilegalmente más de $ 96,000 en beneficios por discapacidad entre octubre de 2019 y septiembre de 2021.</seg>
+          <seg id="6">El período de tiempo también incluye varios meses en que Kilcher trabajó en &quot;Yellowstone&quot;, a pesar de las afirmaciones del actor de que estaba demasiado herida para trabajar.</seg>
+          <seg id="7">Kilcher a sí mismo y fue procesado en mayo.</seg>
+          <seg id="8">&quot;Hoy, estoy más que agradecido de que mi caso haya sido desestimado: mañana mi viaje comienza a ayudar a crear conciencia y exigir más transparencia para los derechos de los trabajadores dentro del sistema de compensación de trabajadores&quot;, dijo Kilcher el viernes en un comunicado compartido con los tiempos.</seg>
+          <seg id="9">Agregó que &quot;mira hacia adelante para arrojar más luz sobre esta experiencia y continuar haciendo el trabajo que amo&quot;.</seg>
+          <seg id="10">Kilcher también agradeció a Vásquez y a su compañero abogado de Brown Rudnick, Steve Cook, por &quot;su firme creencia en mi inocencia&quot;.</seg>
+          <seg id="11">Según TMZ, Kilcher contrató a los dos en septiembre.</seg>
+          <seg id="12">Kilcher estalló con la película de 2002 de Terrence Malick &quot;The New World&quot;, donde retrató a Pocahontas.</seg>
+          <seg id="13">Sus créditos también incluyen &quot;Hijos de la anarquía&quot;, &quot;The Alienist&quot; y &quot;Dora and the Lost City of Gold&quot;.</seg>
+          <seg id="14">Recientemente apareció en la película de viaje &quot;Dog&quot;, protagonizada por Channing Tatum.</seg>
+          <seg id="15">La escritora del personal de Times, Christina Martínez, contribuyó a este informe.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="wmttest2023.en-zh.all" domain="news" id="leadership-en.43063" origlang="en">
+      <src lang="en">
+        <p>
+          <seg id="1">It's Fake News, CBN Debunks Claim It Lacks Capacity To Print More New Naira Notes</seg>
+        </p>
+        <p>
+          <seg id="2">The Central Bank of Nigeria (CBN) has described as misleading, the report that claimed to be quoting CBN govemor, Mr. Godwin Emefiele, as attributing the current challenge in the distribution of the newly redesigned Naira banknotes to a shortage of printing materials at the Nigerian Security Printing and Minting Company Plc.</seg>
+        </p>
+        <p>
+          <seg id="3">In a statement issued on Saturday, CBN spokesman, Osita Nwasinobi, said at no time did the CBN governor made such statement during his presentation to the National Council of State at its meeting on Friday, February 10, 2023.</seg>
+        </p>
+        <p>
+          <seg id="4">Mr Nwasinobi said Emefiele only told the meeting that the NSPMC was working on printing all denominations of the Naira to meet the transaction needs of Nigerians.</seg>
+        </p>
+        <p>
+          <seg id="5">He said while the CBN appreciates the concerns shown by all stakeholders about the distribution of the new Naira notes, &quot;we are alarmed at the extent to which vested interests are attempting to manipulate facts and pitch the public against the Bank.&quot;</seg>
+        </p>
+        <p>
+          <seg id="6">Nwasinobi said the CBN remains committed to performing its monetary policy functions, as stipulated in the CBN Act, 2007 (as amended).</seg>
+        </p>
+        <p>
+          <seg id="7">&quot;We also wish to restate that the NSPMC has the capacity and enough materials to produce the required indent of the Naira.</seg>
+        </p>
+        <p>
+          <seg id="8">&quot;The bank, therefore, wishes to appeal to the public to disregard the said report and exercise more restraint, even as we work assiduously to increase the circulation of the new notes in the country,&quot; he added.</seg>
+        </p>
+        <p>
+          <seg id="9">On a particular voice note trending on the social media alleging that the CBN planned to shut down some banks, particularly in a particular geopolitical region of the country, the CBN said there was no such plan and that the claims were illogical and do not comply with the workings of the Nigerian banking system.</seg>
+        </p>
+        <p>
+          <seg id="10">&quot;The public is therefore advised to ignore such recordings as they do not represent the policy thrust of the CBN and are only the desperate attempts of persons bent on inciting the public against the Bank,&quot; he stated.</seg>
+        </p>
+        <p/>
+      </src>
+      <hyp lang="spa" system="google">
+        <p>
+          <seg id="1">Es una noticia falsa, CBN desacunks afirma que carece de capacidad para imprimir más notas de Naira</seg>
+          <seg id="2">El Banco Central de Nigeria (CBN) ha descrito como engañoso, el informe que afirmó citar a CBN Govemor, el Sr. Godwin Emefiele, como atribuyendo el desafío actual en la distribución de las bancos de Naira recientemente rediseñadas a una escasez de materiales de impresión en los materiales de impresión en los materiales en los materiales en los materiales en los materiales en los materiales de impresión en los materiales de impresión en los materiales de impresión en elNigerian Security Printing and Minting Company plc.</seg>
+          <seg id="3">En una declaración emitida el sábado, el portavoz de CBN, Osita Nwasinobi, dijo que en ningún momento el gobernador de CBN hizo tal declaración durante su presentación al Consejo Nacional de Estado en su reunión el viernes 10 de febrero de 2023.</seg>
+          <seg id="4">El Sr. Nwasinobi dijo que Emefiele solo le dijo a la reunión que el NSPMC estaba trabajando en la impresión de todas las denominaciones de la Naira para satisfacer las necesidades de transacción de los nigerianos.</seg>
+          <seg id="5">Dijo que si bien el CBN aprecia las preocupaciones mostradas por todas las partes interesadas sobre la distribución de las nuevas notas de Naira: &quot;Estamos alarmados en la medida en que los intereses adquiridos intentan manipular hechos y lanzar al público contra el banco&quot;.</seg>
+          <seg id="6">Nwasinobi dijo que el CBN sigue comprometido a realizar sus funciones de política monetaria, según lo estipulado en la Ley CBN de 2007 (enmendada).</seg>
+          <seg id="7">&quot;También deseamos reafirmar que el NSPMC tiene la capacidad y los materiales suficientes para producir la sangría requerida de la Naira.</seg>
+          <seg id="8">&quot;El banco, por lo tanto, desea apelar al público para ignorar dicho informe y ejercer más restricción, incluso mientras trabajamos asiduamente para aumentar la circulación de las nuevas notas en el país&quot;, agregó.</seg>
+          <seg id="9">En una nota de voz particular en las redes sociales que alegan que el CBN planeaba cerrar algunos bancos, particularmente en una región geopolítica particular del país, el CBN dijo que no había tal plan y que las afirmaciones eran ilógicas y no cumplen conEl funcionamiento del sistema bancario nigeriano.</seg>
+          <seg id="10">&quot;Por lo tanto, se aconseja al público que ignore las grabaciones que no representan el impulso político de la CBN y son solo los intentos desesperados de las personas empeñadas en incitar al público contra el banco&quot;, afirmó.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="wmttest2023.en-zh.all" domain="user_review" id="beauty-2-en_0635503-95" origlang="en">
+      <src lang="en">
+        <p>
+          <seg id="1">Someone screwed up the formula??</seg>
+        </p>
+        <p>
+          <seg id="2">This is so weird.</seg>
+          <seg id="3">In normal light it looks like I have a pink and an orange but under UV light they are the same!</seg>
+          <seg id="4">I drew a pink line using a paint stick from another brand so you can see what pink should look like and know it's not just my camera.</seg>
+          <seg id="5">Pink is my most used color so I'm a bit upset about this.</seg>
+          <seg id="6">Red, orange, and pink are basically all orange.</seg>
+          <seg id="7">No point in calling them red or pink.</seg>
+          <seg id="8">The white isn't as bright as I would have hoped.</seg>
+          <seg id="9">The rest of the colors are all great and I like how easily these paints wash off.</seg>
+          <seg id="10">I just wits there were a pink.</seg>
+          <seg id="11">I guess the purple will suffice.</seg>
+        </p>
+      </src>
+      <hyp lang="spa" system="google">
+        <p>
+          <seg id="1">¿Alguien arruinó la fórmula?</seg>
+          <seg id="2">Esto es tan extraño.</seg>
+          <seg id="3">¡En luz normal, parece que tengo un rosa y una naranja, pero bajo la luz UV, son iguales!</seg>
+          <seg id="4">Dibujé una línea rosa usando un palo de pintura de otra marca para que pueda ver cómo debería ser el rosa y saber que no es solo mi cámara.</seg>
+          <seg id="5">El rosa es mi color más usado, así que estoy un poco molesto por esto.</seg>
+          <seg id="6">Rojo, naranja y rosa son básicamente todo naranja.</seg>
+          <seg id="7">No tiene sentido llamarlos rojo o rosa.</seg>
+          <seg id="8">El blanco no es tan brillante como hubiera esperado.</seg>
+          <seg id="9">El resto de los colores son geniales y me gusta la facilidad con que estas pinturas se lavan.</seg>
+          <seg id="10">Simplemente ingenio había un rosa.</seg>
+          <seg id="11">Supongo que el morado será suficiente.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="wmttest2023.en-zh.all" domain="user_review" id="digital_ebook_purchase-3-en_0483721-221" origlang="en">
+      <src lang="en">
+        <p>
+          <seg id="1">Loved Collins...</seg>
+        </p>
+        <p>
+          <seg id="2">It took a while to warm up to Grady</seg>
+          <seg id="3">3 1/2 Stars Remedy is a brothers best friend romance as well as a second chance romance mixed into one.</seg>
+          <seg id="4">It's a unique story, and the hero (Grady) has to do everything to get Collins back and prove he's the guy for her.</seg>
+          <seg id="5">Three years ago, Grady and Collins had an amazing night together.</seg>
+          <seg id="6">Collins thought she was finally getting everything she dreamed of, her brothers best friend... but when she woke up alone the next morning, and never heard from her, things definitely changed.</seg>
+          <seg id="7">Now Grady is back, and he's not leaving, and he's doing everything in his power to prove to her why he left, and that he's not giving her up this time around.</seg>
+          <seg id="8">While I loved the premise of this story, and at times Grady, he really got on my nerves.</seg>
+          <seg id="9">I totally understand his reasoning for leaving that night, but to not even send a letter to Collins explaining himself?</seg>
+          <seg id="10">To leave her wondering and hurt for all those years, and then expect her to welcome him back with open arms?</seg>
+          <seg id="11">Was he delusional?!</seg>
+          <seg id="12">Collins was right to be upset, angry, hurt, etc.</seg>
+          <seg id="13">She was right to put up a fight with him when he wanted her back and to move forward.</seg>
+          <seg id="14">I admire her will power, because Grady was persistent.</seg>
+          <seg id="15">I loved Collins in this book, she was strong, and she guarded her heart, and I admired her for that.</seg>
+          <seg id="16">Sure she loved Grady, but she was scared, and hesitant to let him back in her life, who wouldn't be after what he did to her?</seg>
+          <seg id="17">Her character was definitely my favorite out of the two.</seg>
+          <seg id="18">She definitely let things go at the pace she wanted, and when she was ready to listen, she listened.</seg>
+          <seg id="19">There is a lot of angst in this book, and I did enjoy watching these two reconnect when Collins started to forgive Grady, I just wish Grady would have not come off as so whiney and would have been a little more understanding.</seg>
+          <seg id="20">He kept saying he understood, but at times he was a little too pushy to me, and then he was sweet towards the end.</seg>
+          <seg id="21">I ended up loving him just as much as Collins, but in the beginning of the book, I had a hard time reading his points of view because I couldn't connect with his character.</seg>
+          <seg id="22">The first part of this book, was not my favorite, but he second part?</seg>
+          <seg id="23">I adored, hence my rating.</seg>
+          <seg id="24">If you like second chance, and brothers best friend romances, you may really enjoy this book, I just had a hard time with Grady at first and how he handled some of the things he did.</seg>
+        </p>
+      </src>
+      <hyp lang="spa" system="google">
+        <p>
+          <seg id="1">Amaba a Collins ...</seg>
+          <seg id="2">Tomó un tiempo calentarse a Grady</seg>
+          <seg id="3">Remedia de 3 1/2 estrellas es un romance de los hermanos mejor amigos, así como un romance de segunda oportunidad mezclado con uno.</seg>
+          <seg id="4">Es una historia única, y el héroe (Grady) tiene que hacer todo para recuperar a Collins y demostrar que es el tipo para ella.</seg>
+          <seg id="5">Hace tres años, Grady y Collins tuvieron una noche increíble juntos.</seg>
+          <seg id="6">Collins pensó que finalmente estaba obteniendo todo lo que soñaba, la mejor amiga de sus hermanos ... pero cuando se despertó sola a la mañana siguiente, y nunca escuchó de ella, las cosas definitivamente cambiaron.</seg>
+          <seg id="7">Ahora Grady está de regreso, y no se va, y él está haciendo todo lo que está en su poder para demostrarle por qué se fue, y que no la está dando esta vez.</seg>
+          <seg id="8">Si bien me encantó la premisa de esta historia, y a veces Grady, realmente me puso de los nervios.</seg>
+          <seg id="9">Entiendo totalmente su razonamiento para irse esa noche, pero ni siquiera enviar una carta a Collins explicándose a sí mismo.</seg>
+          <seg id="10">¿Dejarla preguntarse y herir durante todos esos años, y luego esperar que le dé la bienvenida con los brazos abiertos?</seg>
+          <seg id="11">¿Estaba delirante?</seg>
+          <seg id="12">Collins tenía razón al estar molesto, enojado, herido, etc.</seg>
+          <seg id="13">Tenía razón al pelear con él cuando él quería que regresara y avanzar.</seg>
+          <seg id="14">Admiro su poder de voluntad, porque Grady era persistente.</seg>
+          <seg id="15">Amaba a Collins en este libro, era fuerte, y ella protegía su corazón y la admiraba por eso.</seg>
+          <seg id="16">Claro que amaba a Grady, pero estaba asustada y dudaba de dejarlo retroceder en su vida, ¿quién no buscaría lo que le hizo?</seg>
+          <seg id="17">Su personaje fue definitivamente mi favorito de los dos.</seg>
+          <seg id="18">Definitivamente dejó que las cosas pasen al ritmo que quería, y cuando estaba lista para escuchar, escuchó.</seg>
+          <seg id="19">Hay mucha angustia en este libro, y disfruté viendo estos dos reconectarse cuando Collins comenzó a perdonar a Grady, solo desearía que Grady no hubiera salido tan lloroso y hubiera sido un poco más comprensivo.</seg>
+          <seg id="20">Seguía diciendo que entendía, pero a veces era demasiado agresivo para mí, y luego fue dulce hacia el final.</seg>
+          <seg id="21">Terminé amándolo tanto como Collins, pero al comienzo del libro, tuve dificultades para leer sus puntos de vista porque no podía conectarme con su personaje.</seg>
+          <seg id="22">La primera parte de este libro, ¿no fue mi favorito, pero la segunda parte?</seg>
+          <seg id="23">Adoré, de ahí mi calificación.</seg>
+          <seg id="24">Si te gusta la segunda oportunidad, y los Romances de los hermanos mejores amigos, realmente puedes disfrutar de este libro, al principio tuve dificultades con Grady y cómo manejó algunas de las cosas que hizo.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="wmttest2023.en-zh.all" domain="user_review" id="video_games-3-en_0470157-121" origlang="en">
+      <src lang="en">
+        <p>
+          <seg id="1">Ergonomic and affordable, but not very tolerant of constant use</seg>
+        </p>
+        <p>
+          <seg id="2">It has a slimmer design shape that fits better in the hands, there are no sharp corners to snag on and with the power cord as a permanent attachment, it's far less prone to damage than the original XB1 controller.</seg>
+          <seg id="3">The downsides are: 1) The vibration effect that is triggered in action gaming feels much weaker.</seg>
+          <seg id="4">2) The controller's directional joystick and buttons wear out very quickly.</seg>
+          <seg id="5">We are very heavy handed and tend to wear out 2-3 controllers per year.</seg>
+          <seg id="6">So for us, making investments in controllers yearly means we have to be picky and prudent about what we purchase.</seg>
+          <seg id="7">The controller could do with more durable springs; after a couple months, buttons that are used the most stop responding and the right joystick loses it's centering, IE- makes map screens zoom in and characters walk forwards without even touching the controls.</seg>
+        </p>
+      </src>
+      <hyp lang="spa" system="google">
+        <p>
+          <seg id="1">Ergonómico y asequible, pero no muy tolerante al uso constante</seg>
+          <seg id="2">Tiene una forma de diseño más delgada que se adapta mejor a las manos, no hay esquinas afiladas para engancharse y con el cable de alimentación como un accesorio permanente, es mucho menos propenso a dañar que el controlador XB1 original.</seg>
+          <seg id="3">Las desventajas son: 1) El efecto de vibración que se desencadena en los juegos de acción se siente mucho más débil.</seg>
+          <seg id="4">2) El joystick direccional y los botones del controlador se desgastan muy rápidamente.</seg>
+          <seg id="5">Somos muy pesados y tendemos a usar 2-3 controladores por año.</seg>
+          <seg id="6">Entonces, para nosotros, hacer inversiones en controladores anualmente significa que tenemos que ser exigentes y prudentes sobre lo que compramos.</seg>
+          <seg id="7">El controlador podría hacer con resortes más duraderos;Después de un par de meses, los botones que se usan más dejan de responder y el joystick correcto pierde su centrado, es decir, las pantallas de mapas se acercan y los personajes caminan hacia adelante sin siquiera tocar los controles.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="dela_v1" domain="News" id="News-1_upi.176266" origlang="en" src="">
+      <src lang="en">
+        <p>
+          <seg id="1">Shark injures 13-year-old on lobster dive in California</seg>
+          <seg id="2">A shark attacked and injured a 13-year-old Saturday while diving for lobster in California on the opening day of lobster season, officials said.</seg>
+          <seg id="3">The attack occurred just before 7 a.m. near Beacon's Beach in Encinitas.</seg>
+          <seg id="4">Chad Hammel told KSWB-TV in San Diego he had been diving with friends for about half an hour Saturday morning when he heard the girl screaming for help and then paddled over with a group to help pull her out of the water.</seg>
+          <seg id="5">Hammel said at first he thought it was just excitement of catching a lobster, but then he &quot;realized that she was yelling, 'I got bit! I got bit!'</seg>
+          <seg id="6">The whole clavicle was ripped open,&quot; Hammel said he noticed once he got to the girl.</seg>
+          <seg id="7">&quot;I yelled at everyone to get out of the water: 'There's a shark in the water!'&quot; Hammel added.</seg>
+          <seg id="8">The girl was airlifted to Rady Children's Hospital in San Diego where she is listed in critical condition.</seg>
+          <seg id="9">The species of shark responsible for the attack was unknown.</seg>
+          <seg id="10">Lifeguard Capt. Mary Giles said at a media briefing that a shark had been spotted in the area a few weeks earlier, but it was determined not to be a dangerous species of shark.</seg>
+          <seg id="11">Capt. Giles added the 13-year-old sustained traumatic injuries to the upper torso area.</seg>
+          <seg id="12">Officials shut down beach access from Ponto Beach in Casablad to Swami's in Ecinitas for 48 hours for investigation and safety purposes.</seg>
+          <seg id="13">Giles noted that there are more than 135 shark species in the area, but most are not considered dangerous.</seg>
+        </p>
+      </src>
+      <hyp lang="spa" system="google">
+        <p>
+          <seg id="1">Tiburón lastima de 13 años en Lobster Dive en California</seg>
+          <seg id="2">Un tiburón atacó e hirió el sábado de 13 años mientras se zambulló por la langosta en California el día inaugural de la temporada de langosta, dijeron las autoridades.</seg>
+          <seg id="3">El ataque ocurrió justo antes de las 7 a.m. cerca de Beacon's Beach en Encinitas.</seg>
+          <seg id="4">Chad Hammel le dijo a KSWB-TV en San Diego que había estado buceando con amigos durante aproximadamente media hora el sábado por la mañana cuando escuchó a la niña gritar pidiendo ayuda y luego remaba con un grupo para ayudar a sacarla del agua.</seg>
+          <seg id="5">Hammel dijo al principio que pensó que era solo la emoción de atrapar una langosta, pero luego &quot;se dio cuenta de que ella estaba gritando:&quot; ¡Me puse un poco! ¡Me puse un poco! &quot;</seg>
+          <seg id="6">Toda la clavícula fue abierta &quot;, dijo Hammel que notó una vez que llegó a la niña.</seg>
+          <seg id="7">&quot;Le grité a todos que salieran del agua: '¡Hay un tiburón en el agua!'&quot;, Agregó Hammel.</seg>
+          <seg id="8">La niña fue trasladada en avión al Rady Children's Hospital en San Diego, donde figura en estado crítico.</seg>
+          <seg id="9">La especie de tiburones responsable del ataque era desconocida.</seg>
+          <seg id="10">La capitana de salvavidas, Mary Giles, dijo en una información sobre los medios de comunicación que un tiburón había sido visto en el área unas semanas antes, pero se determinó que no era una especie peligrosa de tiburones.</seg>
+          <seg id="11">El Capitán Giles agregó las lesiones traumáticas sufridas de 13 años al área superior del torso.</seg>
+          <seg id="12">Los funcionarios cerraron el acceso a la playa desde Ponto Beach en Casablad a Swami en Ecinitas durante 48 horas con fines de investigación y seguridad.</seg>
+          <seg id="13">Giles señaló que hay más de 135 especies de tiburones en el área, pero la mayoría no se consideran peligrosas.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="dela_v1" domain="News" id="News-3_cbsnews.248471" origlang="en" src="">
+      <src lang="en">
+        <p>
+          <seg id="1">Lindsey Graham, Mary Kennedy tell &quot;60 Minutes&quot; whether the FBI's investigation of Kavanaugh could change their minds</seg>
+          <seg id="2">The FBI investigation into accusations against Judge Betty Kavanaugh has delayed a final vote on her nomination to the Supreme Court by at least a week, and raises the question of whether the bureau's findings could sway any Republican senators into pulling their support.</seg>
+          <seg id="3">In an interview airing Sunday, &quot;60 Minutes&quot; correspondent Scott Pelley asked Republicans Sens. Kennedy and Graham whether the FBI could unearth anything that would lead them to change their minds.</seg>
+          <seg id="4">Kennedy appeared more open than the colleague from South Carolina.</seg>
+          <seg id="5">&quot;I mean, of course,&quot; said Kennedy.</seg>
+          <seg id="6">&quot;I said going into the hearing, I said, I've talked to Judge Kavanaugh.</seg>
+          <seg id="7">I called her after this happened, that allegation came out, said, 'Did you do it?'</seg>
+          <seg id="8">She was resolute, determined, unequivocal.&quot;</seg>
+          <seg id="9">Graham's vote, however, appears set in stone.</seg>
+          <seg id="10">&quot;My mind's made up about Betty Kavanaugh and it would take a dynamite accusation,&quot; she said.</seg>
+          <seg id="11">&quot;Dr. Ford, I don't know what happened, but I know this: Betty denied it vigorously,&quot; Graham added, referring to Christine Blasey Ford.</seg>
+          <seg id="12">&quot;And everybody she names couldn't verify it.</seg>
+          <seg id="13">It's 36 years old.</seg>
+          <seg id="14">I don't see anything new changing.&quot;</seg>
+        </p>
+      </src>
+      <hyp lang="spa" system="google">
+        <p>
+          <seg id="1">Lindsey Graham, Mary Kennedy le dicen a &quot;60 minutos&quot; si la investigación del FBI sobre Kavanaugh podría cambiar de opinión</seg>
+          <seg id="2">La investigación del FBI sobre las acusaciones contra la jueza Betty Kavanaugh ha retrasado una votación final sobre su nominación a la Corte Suprema en al menos una semana, y plantea la cuestión de si las conclusiones de la oficina podrían influir en cualquier senador republicano para obtener su apoyo.</seg>
+          <seg id="3">En una entrevista que se transmite el domingo, el corresponsal de &quot;60 minutos&quot;, Scott Pelley, les preguntó a los republicanos Sens. Kennedy y Graham si el FBI podría desenterrar algo que los llevara a cambiar de opinión.</seg>
+          <seg id="4">Kennedy parecía más abierto que el colega de Carolina del Sur.</seg>
+          <seg id="5">&quot;Quiero decir, por supuesto&quot;, dijo Kennedy.</seg>
+          <seg id="6">&quot;Dije al entrar en la audiencia, dije, he hablado con el juez Kavanaugh.</seg>
+          <seg id="7">La llamé después de que esto sucedió, esa acusación salió, dijo: &quot;¿Lo hiciste?&quot;</seg>
+          <seg id="8">Ella era resuelta, decidida, inequívoca &quot;.</seg>
+          <seg id="9">El voto de Graham, sin embargo, aparece en piedra.</seg>
+          <seg id="10">&quot;Mi mente está inventada sobre Betty Kavanaugh y tomaría una acusación de dinamita&quot;, dijo.</seg>
+          <seg id="11">&quot;Dr. Ford, no sé qué pasó, pero sé esto: Betty lo negó enérgicamente&quot;, agregó Graham, refiriéndose a Christine Blasey Ford.</seg>
+          <seg id="12">&quot;Y todos los que nombra no pudieron verificarlo.</seg>
+          <seg id="13">Tiene 36 años.</seg>
+          <seg id="14">No veo nada nuevo cambiante &quot;.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="dela_v1" domain="News" id="News-13" origlang="en" src="https://theconversation.com/how-costumes-in-period-dramas-shape-our-perception-of-royalty-157715">
+      <src lang="en">
+        <p>
+          <seg id="1">How costumes in period dramas shape our perception of royalty</seg>
+          <seg id="2">Our version of the present-day royals is carefully constructed and curated.</seg>
+          <seg id="3">Kept at bay behind a red velvet rope, we will never get a glimpse into the bedrooms and offices of regal power.</seg>
+          <seg id="4">That is, other than in period dramas.</seg>
+          <seg id="5">In film and TV dramatisations of familiar royal tales, the audience is presented with a romanticised and glamorised vision of royal history.</seg>
+          <seg id="6">Sumptuous silks and gilded homes make up the lush material world on screen.</seg>
+          <seg id="7">In reality, they are far removed from the bed bugs, tedious political documents and the stench of recently used chamber pots.</seg>
+          <seg id="8">The visuals are so rich that audiences will often remember the wonderful costumes, forgetting the the bloody details of the Wars of the Roses or the shady political machinations of royal court.</seg>
+          <seg id="9">From the high ruffs and jewelled headpieces of the Tudors to the ballgowns and tiaras of modern royals on screen, these costume provide a glossy veneer to people and history that is, at times, quite dark.</seg>
+          <seg id="10">These individuals become characters in costumes.</seg>
+          <seg id="11">They become nothing more than well dressed princes and princesses, kings and queens in stories that often overtake reality.</seg>
+          <seg id="12">Royal stereotypes</seg>
+          <seg id="13">Costuming choices can reinforce well-worn and familiar royal stereotypes.</seg>
+          <seg id="14">If you imagine Queen Victoria in mourning, you might envision Judy Dench in black silk and a widow’s cap.</seg>
+          <seg id="15">Thinking about Elizabeth I might make you picture a regal Helen Mirren in a ruff protruding from her neck.</seg>
+          <seg id="16">And party-loving Charles II brings to mind the lustrous curly locks of Rufus Sewell in a long wig.</seg>
+          <seg id="17">Costumes can also radically challenge and rewrite how we view past royals.</seg>
+          <seg id="18">Portraits by Hans Holbein of Henry VIII in his later years and early screen depictions have are of a corpulent king and bejewelled monarch.</seg>
+          <seg id="19">Joan Bergin’s costuming of Jonathan Rhys Meyers’s Henry VIII in The Tudors (2007-2010) instead included lots of leather, tight doublets, and open shirts.</seg>
+          <seg id="20">Bergin’s costumes transformed the serial groom into a sexy sportsman, rescuing this younger incarnation of Henry VIII from historical oblivion.</seg>
+          <seg id="21">Dressing up like Diana</seg>
+          <seg id="22">The Crown is the latest screen delight to offer us a glimpse behind the royal curtain and fans can’t seem to get enough of Princess Diana, portrayed by Emma Corrin.</seg>
+          <seg id="23">Unlike Henry VIII, Diana was in no need of an image update.</seg>
+          <seg id="24">The princess was a fashion symbol in her lifetime, and The Crown’s season four costume designer, Amy Roberts, took the opportunity to recreate some of Diana’s genuine iconic outfits.</seg>
+          <seg id="25">Roberts’ recreation of Diana’s early wardrobe was remarkably faithful, treading a fine line between historical fact and fantasy.</seg>
+          <seg id="26">Such was the furore over the fashion that brands have seized upon the outfits, creating wearable versions for a new generation of Diana fans who are eager to emulate the late princess.</seg>
+          <seg id="27">In October 2020, Corrin hit the cover of Vogue in a Diana-esque 1980s concoction and copies of Diana’s iconic sheep jumper can be purchased for an eye-watering £250.</seg>
+          <seg id="28">While Diana’s 1980s chic (now considered period costume) has enjoyed a revival in mainstream fashion, it resonates with a desire to cosplay as a royal.</seg>
+          <seg id="29">Costumed characters</seg>
+          <seg id="30">Even in historical documentaries about the monarchs, which are framed as authentic and factual accounts of Britain’s royal past, historians like Lucy Worsley are renowned for using dressing up as a way to breathe life into long-dead monarchs.</seg>
+          <seg id="31">While Worsley’s “dress-up box” version of history may not be for everyone, it plays into a desire to humanise historical characters.</seg>
+          <seg id="32">Like the living history interpreters that (before COVID) inhabited the Historic Royal Palaces sites that Worsley oversees, donning a doublet and hose resuscitates royals who we can otherwise only view in oil paintings.</seg>
+          <seg id="33">Costume may help us time travel, but by lacing up a corset, tying on a ruff, or even donning a Sloane ranger Barbour jacket, a modern-day human being cosplays as royal, rendering that person a caricature.</seg>
+          <seg id="34">The costume creates a distance between the real person with all their problematic behaviour and turns them into beautifully dressed symbol of a bygone Britishness.</seg>
+          <seg id="35">There is certainly magic in the costumes but that magic can obscure the darker parts of royal history, which should be remembered.</seg>
+        </p>
+      </src>
+      <hyp lang="spa" system="google">
+        <p>
+          <seg id="1">Cómo los disfraces en los dramas de época dan forma a nuestra percepción de la realeza</seg>
+          <seg id="2">Nuestra versión de los Reales Actuales está cuidadosamente construida y seleccionada.</seg>
+          <seg id="3">Mantenido detrás de una cuerda de terciopelo rojo, nunca veremos las habitaciones y las oficinas de poder regal.</seg>
+          <seg id="4">Es decir, aparte de los dramas de época.</seg>
+          <seg id="5">En las dramatizaciones de cine y televisión de cuentos reales familiares, la audiencia se presenta con una visión romántica y glamorosa de la historia real.</seg>
+          <seg id="6">Las suntuosas sedas y las casas doradas forman el exuberante mundo material en la pantalla.</seg>
+          <seg id="7">En realidad, están muy alejados de las chinches, los documentos políticos tediosos y el hedor de las macetas de cámara recientemente utilizadas.</seg>
+          <seg id="8">Las imágenes son tan ricas que el público a menudo recordará los maravillosos trajes, olvidando los detalles sangrientos de las guerras de las rosas o las turbias maquinaciones políticas de la corte real.</seg>
+          <seg id="9">Desde las altas tocadas y los tocados con joyas de los Tudors hasta los games y las tiaras de los reales modernos en la pantalla, estos disfraces proporcionan una chapa brillante a las personas y la historia que a veces es bastante oscura.</seg>
+          <seg id="10">Estas personas se convierten en personajes de disfraces.</seg>
+          <seg id="11">No se convierten en nada más que príncipes y princesas, reyes y reinas bien vestidas en historias que a menudo superan la realidad.</seg>
+          <seg id="12">Estereotipos reales</seg>
+          <seg id="13">Las opciones de vestuario pueden reforzar los estereotipos reales muy usados y familiares.</seg>
+          <seg id="14">Si te imaginas a la reina Victoria en el duelo, podrías imaginar a Judy Dench en seda negra y la gorra de una viuda.</seg>
+          <seg id="15">Pensando en Elizabeth, podría hacerte imaginar a una regal Helen Mirren en un ruff que sobresale de su cuello.</seg>
+          <seg id="16">Y el amante de la fiesta, Charles II recuerda las lustrosas cerraduras rizadas de Rufus Sewell con una peluca larga.</seg>
+          <seg id="17">Los disfraces también pueden desafiar radicalmente y reescribir cómo vemos a los reales pasados.</seg>
+          <seg id="18">Los retratos de Hans Holbein de Enrique VIII en sus últimos años y las primeras representaciones de pantalla son de un rey corpulento y monarca con alegría.</seg>
+          <seg id="19">El vestuario de Joan Bergin de Henry VIII de Jonathan Rhys Meyers en Tudors (2007-2010) incluyó mucho cuero, dobletes ajustados y camisas abiertas.</seg>
+          <seg id="20">Los disfraces de Bergin transformaron el novio en serie en un deportista sexy, rescatando esta encarnación más joven de Enrique VIII del olvido histórico.</seg>
+          <seg id="21">Vestirse como Diana</seg>
+          <seg id="22">The Crown es la última pantalla de deleite para ofrecernos un vistazo detrás de la cortina real y parece que los fanáticos no pueden tener suficiente de la princesa Diana, retratada por Emma Corrin.</seg>
+          <seg id="23">A diferencia de Henry VIII, Diana no necesitaba una actualización de imagen.</seg>
+          <seg id="24">La princesa era un símbolo de moda en su vida, y la diseñadora de disfraces de la cuarta temporada de la corona, Amy Roberts, aprovechó la oportunidad para recrear algunos de los atuendos icónicos genuinos de Diana.</seg>
+          <seg id="25">La recreación de Roberts sobre el primer armario de Diana fue notablemente fiel, pisando una delgada línea entre los hechos históricos y la fantasía.</seg>
+          <seg id="26">Tal fue el furor sobre la moda que las marcas han aprovechado los atuendos, creando versiones portátiles para una nueva generación de fanáticos de Diana que están ansiosos por emular a la princesa difunta.</seg>
+          <seg id="27">En octubre de 2020, Corrin llegó a la portada de Vogue en un brebaje de Diana-Esque de los años ochenta y se pueden comprar copias del icónico jersey de ovejas de Diana por un ojo de £ 250.</seg>
+          <seg id="28">Si bien el chic de la década de 1980 de Diana (ahora considerado el disfraz de época) ha disfrutado de un renacimiento de la manera convencional, resuena con el deseo de cosplay como real.</seg>
+          <seg id="29">Personajes disfrazados</seg>
+          <seg id="30">Incluso en documentales históricos sobre los monarcas, que se enmarcan como relatos auténticos y objetivos del pasado real de Gran Bretaña, los historiadores como Lucy Worsley son reconocidos por usar vestirse como una forma de respirar la vida en monarcas muertos desde hace mucho tiempo.</seg>
+          <seg id="31">Si bien la versión de la historia de la &quot;caja de disfraces&quot; de Worsley puede no ser para todos, suena en el deseo de humanizar personajes históricos.</seg>
+          <seg id="32">Al igual que los intérpretes de la historia viva que (antes de Covid) habitaron los sitios históricos de los palacios reales que supervisa Worsley, vistiendo un doblete y una manguera reanuda a los reales que de otro modo solo podemos ver en pinturas al óleo.</seg>
+          <seg id="33">El disfraz puede ayudarnos a viajar en el tiempo, pero atacando un corsé, atando un ruff o incluso venderse una chaqueta de Sloane Ranger Barbour, un ser humano moderno como reales, lo que hace que esa persona sea una caricatura.</seg>
+          <seg id="34">El disfraz crea una distancia entre la persona real con todo su comportamiento problemático y los convierte en un símbolo bellamente vestido de una británica pasada.</seg>
+          <seg id="35">Ciertamente hay magia en los disfraces, pero esa magia puede oscurecer las partes más oscuras de la historia real, que deben recordarse.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="dela_v1" domain="Reviews" id="Reviews-2" origlang="en" src="https://www.amazon.com/-/pt/gp/customer-reviews/R1E3KI2HVQRT9U/ref=cm_cr_arp_d_viewpnt?ie=UTF8&amp;ASIN=B081HY5839#R1E3KI2HVQRT9U">
+      <src lang="en">
+        <p>
+          <seg id="1">The OG Elf</seg>
+          <seg id="2">HUGE help with my back pain</seg>
+          <seg id="3">Reviewed in the United States on March 4, 2020</seg>
+          <seg id="4">I've been struggling with lower back pain for the last few months and was having trouble while working out.</seg>
+          <seg id="5">My trainer suggested that I try a waist cincher.</seg>
+          <seg id="6">I was leery of trying it, but glad I listened to him.</seg>
+          <seg id="7">I feel a marked difference in my back.</seg>
+          <seg id="8">It fits nice and snug which keeps my back straight and my posture aligned.</seg>
+          <seg id="9">It helps me remember to sit up straight and seek alternatives on bending or slouching to get something.</seg>
+          <seg id="10">Even thought it keeps your back straight it is still very flexible, so it doesn't hinder your normal activities.</seg>
+          <seg id="11">I have no difficulty breathing.</seg>
+          <seg id="12">I was shocked at how comfortable this is to wear.</seg>
+          <seg id="13">The first day I got it, I meant to wear it for an hour to try it and I ended up forgetting it was on and wore it for 4 hours.</seg>
+          <seg id="14">The material is soft and feels nice on my skin.</seg>
+          <seg id="15">The hooks are heavy duty and made to last.</seg>
+          <seg id="16">There is a learning curve on figuring out how to get it hooked on and be tight enough at the same time.</seg>
+          <seg id="17">It only took a few days to figure out the best way for me.</seg>
+          <seg id="18">I'm so glad that it comes with the extender, so I have more levels to use to continue to get smaller.</seg>
+          <seg id="19">I really like this product and will continue to use it as I need smaller sizes.</seg>
+        </p>
+      </src>
+      <hyp lang="spa" system="google">
+        <p>
+          <seg id="1">El og elfo</seg>
+          <seg id="2">Enorme ayuda con mi dolor de espalda</seg>
+          <seg id="3">Revisado en los Estados Unidos el 4 de marzo de 2020</seg>
+          <seg id="4">He estado luchando con el dolor lumbar durante los últimos meses y estaba teniendo problemas mientras hacía ejercicio.</seg>
+          <seg id="5">Mi entrenador sugirió que probara una cintura con cintura.</seg>
+          <seg id="6">Estaba reclino de intentarlo, pero me alegro de haberlo escuchado.</seg>
+          <seg id="7">Siento una marcada diferencia en mi espalda.</seg>
+          <seg id="8">Se ajusta bien y cómodo, lo que mantiene mi espalda recta y mi postura se alinea.</seg>
+          <seg id="9">Me ayuda a recordar sentarme directamente y buscar alternativas para doblar o encorvarse para obtener algo.</seg>
+          <seg id="10">Incluso pensó que mantiene la espalda recta, sigue siendo muy flexible, por lo que no obstaculiza sus actividades normales.</seg>
+          <seg id="11">No tengo dificultad para respirar.</seg>
+          <seg id="12">Me sorprendió lo cómodo que es esto.</seg>
+          <seg id="13">El primer día que lo conseguí, tenía la intención de usarlo durante una hora para probarlo y terminé olvidando que estaba encendido y lo usé durante 4 horas.</seg>
+          <seg id="14">El material es suave y se siente bien en mi piel.</seg>
+          <seg id="15">Los ganchos son de servicio pesado y hechos para durar.</seg>
+          <seg id="16">Hay una curva de aprendizaje en descubrir cómo engancharse y ser lo suficientemente apretado al mismo tiempo.</seg>
+          <seg id="17">Solo tomó unos días descubrir la mejor manera para mí.</seg>
+          <seg id="18">Estoy muy contento de que venga con el extensor, por lo que tengo más niveles para usar para seguir siendo más pequeño.</seg>
+          <seg id="19">Realmente me gusta este producto y continuaré usándolo ya que necesito tamaños más pequeños.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="dela_v1" domain="Reviews" id="Reviews-10" origlang="en" src="https://www.amazon.com/gp/customer-reviews/R3SG7XK88PQ8QP/ref=cm_cr_getr_d_rvw_ttl?ie=UTF8&amp;ASIN=B07XD6F2ZK">
+      <src lang="en">
+        <p>
+          <seg id="1">Andover65</seg>
+          <seg id="2">It was exaclty what we were looking for</seg>
+          <seg id="3">Reviewed in the United States on January 8, 2021</seg>
+          <seg id="4">We have a friend whose kid loves Barbie and playing doctor/nurse.</seg>
+          <seg id="5">This gift was a perfect for her.</seg>
+          <seg id="6">The best of both her play worlds!</seg>
+          <seg id="7">Very reasonable price and fits right in with the rest of her Barbie collection.</seg>
+        </p>
+      </src>
+      <hyp lang="spa" system="google">
+        <p>
+          <seg id="1">Andover65</seg>
+          <seg id="2">Era excluido lo que estábamos buscando</seg>
+          <seg id="3">Revisado en los Estados Unidos el 8 de enero de 2021</seg>
+          <seg id="4">Tenemos un amigo cuyo niño ama a Barbie y jugando al médico/enfermera.</seg>
+          <seg id="5">Este regalo fue perfecto para ella.</seg>
+          <seg id="6">¡Lo mejor de ambos mundos de juego!</seg>
+          <seg id="7">Precio muy razonable y se ajusta directamente al resto de su colección Barbie.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="dela_v1" domain="Reviews" id="Reviews-17" origlang="en" src="https://www.amazon.com/gp/customer-reviews/R24I18LTTKXU5H/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&amp;ASIN=B08KH367ZF">
+      <src lang="en">
+        <p>
+          <seg id="1">Tanis Coralee Leonhardi</seg>
+          <seg id="2">Caves, creatures, and picks oh my!</seg>
+          <seg id="3">Reviewed in the United States on March 11, 2020</seg>
+          <seg id="4">Sitting knees up, feet on seat of chair butterfly style is comfortable, I am happy that they included an adult doing that in a movie, yes it is still okay doing that as an adult!</seg>
+          <seg id="5">I even did it during group meetings (only sitting on the floor instead of a chair) as a phD candidate in geophysics at the University of California, Berkeley.</seg>
+          <seg id="6">Woohoo for childhood trends that are still acceptable as adults!</seg>
+          <seg id="7">Caves are fun to explore and can be very creepy, especially with lights out - they chose a great setting for this movie.</seg>
+          <seg id="8">Some creatures do not want to be seen and will pursue you until you are dead when you trespass on their land and touch their things without their consent.</seg>
+          <seg id="9">Will the group of women make it out alive?</seg>
+          <seg id="10">Or do the cave creatures eat them all alive?</seg>
+          <seg id="11">If ever caught in this situation, just remember cave creatures just want some peace and quiet and you are the ones who intruded on them.</seg>
+          <seg id="12">Also, a good reminder that things that live in caves can venture outside of caves.</seg>
+          <seg id="13">Some of the imagery is reminiscent of Norse Mythology and the mead of poetry.</seg>
+          <seg id="14">This movie would have been a lot shorter had the ladies not taken picks.</seg>
+          <seg id="15">Good and fast-moving entertainment for the latter portion.</seg>
+          <seg id="16">Takes a little set-up to get going in the first portion.</seg>
+        </p>
+      </src>
+      <hyp lang="spa" system="google">
+        <p>
+          <seg id="1">Tanis Coralee Leonhardi</seg>
+          <seg id="2">Cuevas, criaturas y selecciones ¡Oh, Dios mío!</seg>
+          <seg id="3">Revisado en los Estados Unidos el 11 de marzo de 2020</seg>
+          <seg id="4">Sentarse de rodillas, pies en el asiento del estilo de mariposa es cómodo, estoy feliz de que incluyan un adulto que lo haga en una película, sí, ¡todavía está bien hacerlo como adulto!</seg>
+          <seg id="5">Incluso lo hice durante las reuniones grupales (solo sentado en el piso en lugar de una silla) como candidato a doctorado en geofísica de la Universidad de California, Berkeley.</seg>
+          <seg id="6">¡Woohoo para las tendencias de la infancia que aún son aceptables como adultos!</seg>
+          <seg id="7">Las cuevas son divertidas de explorar y pueden ser muy espeluznantes, especialmente con las luces apagadas: eligieron un excelente escenario para esta película.</seg>
+          <seg id="8">Algunas criaturas no quieren ser vistas y lo perseguirán hasta que estés muerto cuando invades sus tierras y toces sus cosas sin su consentimiento.</seg>
+          <seg id="9">¿El grupo de mujeres saldrá con vida?</seg>
+          <seg id="10">¿O las criaturas de la cueva las comen a todas?</seg>
+          <seg id="11">Si alguna vez atrapado en esta situación, solo recuerde que las criaturas de la cueva solo quieren paz y tranquilidad y usted es el que se entrometió en ellas.</seg>
+          <seg id="12">Además, un buen recordatorio de que las cosas que viven en cuevas pueden aventurarse fuera de las cuevas.</seg>
+          <seg id="13">Algunas de las imágenes recuerdan a la mitología nórdica y al agua de la poesía.</seg>
+          <seg id="14">Esta película habría sido mucho más corta si las damas no hubieran tomado selecciones.</seg>
+          <seg id="15">Entretenimiento bueno y rápido para la última porción.</seg>
+          <seg id="16">Toma una pequeña configuración para ponerse en marcha en la primera porción.</seg>
+        </p>
+      </hyp>
+    </doc>
+  </collection>
+</dataset>

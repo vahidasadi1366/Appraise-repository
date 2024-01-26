@@ -1,0 +1,636 @@
+<?xml version="1.0" ?>
+<dataset>
+  <collection id="general">
+    <doc corpus="wmttest2023.en-zh.all" domain="news" id="guardian.114833" origlang="en">
+      <src lang="en">
+        <p>
+          <seg id="1">Jared O'Mara should never have been a Labour candidate, says Rachel Reeves</seg>
+        </p>
+        <p>
+          <seg id="2">The disgraced former MP Jared O'Mara &quot;should never have been selected as a Labour candidate&quot; and deserves his four-year jail sentence, the shadow chancellor has said.</seg>
+        </p>
+        <p>
+          <seg id="3">Rachel Reeves was talking to the Guardian in the Bolton North East constituency on Friday, hours after key figures in the local party quit in protest at how Labour's national executive committee (NEC) was controlling the parliamentary selection process for the next general election.</seg>
+        </p>
+        <p>
+          <seg id="4">The entire selection committee in Bolton North East resigned after they were not allowed to choose the shortlist, an increasingly common practice in Keir Starmer's Labour party, saying: &quot;Yet again, it appears that the Labour party is seeking to promote the views and attitudes of a clique in London, rather than local members in the north.&quot;</seg>
+        </p>
+        <p>
+          <seg id="5">They added: &quot;This goes against the attitude necessary to win back the red wall, which is so desperately needed to deliver a Labour government.&quot;</seg>
+        </p>
+        <p>
+          <seg id="6">Reeves said: &quot;I don't know what the circumstances are of what has happened in Bolton, but I do know that those being selected are strong candidates, often with very strong roots in their communities.&quot;</seg>
+        </p>
+        <p>
+          <seg id="7">There has been particular unhappiness that Leigh Drennan, the chair of Labour North West and aide to the Jeremy Corbyn-supporting Warrington North MP Charlotte Nichols, was not longlisted to try to win the seat back from the Conservatives, despite garnering nominations from four big trade unions.</seg>
+        </p>
+        <p>
+          <seg id="8">Reeves said she had nothing to do with candidate selection, but added: &quot;I do know that it's really important that we have rigorous processes for who can be longlisted and who can be shortlisted.&quot;</seg>
+        </p>
+        <p>
+          <seg id="9">O'Mara was imprisoned for four years this week after a jury found he had submitted fake expense claims totalling £52,000 in an attempt to fund his cocaine and alcohol abuse.</seg>
+        </p>
+        <p>
+          <seg id="10">Many people have suggested he was not properly vetted by Labour when he was selected to fight Nick Clegg, the former Liberal Democrat deputy prime minister, in Sheffield Hallam in 2017&quot;s snap general election.</seg>
+        </p>
+        <p>
+          <seg id="11">Asked if the O'Mara debacle was looming large in the minds of Labour's NEC, Reeves said: &quot;I don't want to suggest in any way that anyone not on a shortlist is a cocaine user.</seg>
+        </p>
+        <p>
+          <seg id="12">But Jared O'Mara was a terrible case.</seg>
+        </p>
+        <p>
+          <seg id="13">He should never have been selected as a Labour candidate; he should never have been an MP.</seg>
+        </p>
+        <p>
+          <seg id="14">He used public money, it's absolutely right he's received his sentence.&quot;</seg>
+        </p>
+        <p>
+          <seg id="15">The O'Mara circumstances were &quot;pretty exceptional,&quot; said Reeves, but she acknowledged: &quot;There are important lessons to be learned for the Labour party and all political parties on the selection of candidates.</seg>
+        </p>
+        <p>
+          <seg id="16">But I would also say, in this parliament we have seen the constant undermining of standards in politics, not least by a succession of prime ministers and fines and parties and standards falling well short of what you could expect.&quot;</seg>
+        </p>
+        <p>
+          <seg id="17">She added: &quot;&quot;One thing I would say about the Labour party is that when people do wrong, they lose the whip. And that's just not the case in the Conservative party.&quot;</seg>
+        </p>
+        <p>
+          <seg id="18">Archie Bland and Nimo Omer take you through the top stories and what they mean, free every weekday morning.</seg>
+        </p>
+        <p>
+          <seg id="19">Privacy Notice: Newsletters may contain info about charities, online ads, and content funded by outside parties.</seg>
+        </p>
+        <p>
+          <seg id="20">For more information see our Privacy Policy.</seg>
+        </p>
+        <p>
+          <seg id="21">We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply.</seg>
+        </p>
+        <p>
+          <seg id="22">Reeves was in Bolton to meet apprentices at a training centre for Openreach, which provides the UK's broadband network.</seg>
+        </p>
+        <p>
+          <seg id="23">After watching apprentices climb up pretend telegraph poles at the £1.7m site, Reeves discussed Labour's plans to overhaul the apprenticeship levy, which forces larger firms to put aside 0.5% of their payroll to fund apprentices.</seg>
+        </p>
+        <p>
+          <seg id="24">Businesses complain the levy is too inflexible. For example, said Reeves, Openreach &quot;wants to retrain people who work on copper to work on fibre, but the apprenticeship levy doesn't have that flexibility around retraining.&quot;</seg>
+        </p>
+        <p>
+          <seg id="25">Reeves said Labour would change the levy so companies could use the money to retrain employees in industries such as the automotive sector and those currently fitting gas boilers.</seg>
+        </p>
+        <p>
+          <seg id="26">&quot;We need them as part of the energy transition to net zero to be learning the skills to work on electric vehicles or fitting heat pumps or hydrogen boilers.</seg>
+        </p>
+        <p>
+          <seg id="27">We want those people to be retrained to get the skills that they need to succeed.</seg>
+        </p>
+        <p>
+          <seg id="28">And yet the apprenticeship levy is stacked up against them.</seg>
+        </p>
+        <p>
+          <seg id="29">Businesses want greater flexibility and young people starting off in life or older people who want to retrain to make sure that their skills are relevant for the future,&quot; said Reeves.</seg>
+        </p>
+        <p/>
+      </src>
+      <hyp lang="fas" system="google">
+        <p>
+          <seg id="1">راشل ریوز می گوید: جارد اومارا هرگز نباید کاندیدای کار باشد</seg>
+          <seg id="2">جارد اومارا ، نماینده سابق ننگین &quot;هرگز نباید به عنوان نامزد کار انتخاب می شد&quot; و سزاوار مجازات زندان چهار ساله خود است.</seg>
+          <seg id="3">راشل ریوز روز جمعه با گاردین در حوزه انتخابیه بولتون شمال شرقی صحبت می کرد ، ساعاتی پس از آنکه چهره های کلیدی در حزب محلی در اعتراض به چگونگی کنترل کمیته ملی کارگروه (NEC) در حال کنترل روند انتخاب پارلمان برای انتخابات عمومی بعدی بود.</seg>
+          <seg id="4">کل کمیته انتخاب در بولتون شمال شرقی پس از اجازه انتخاب لیست کوتاه ، استعفا داد ، یک عمل به طور فزاینده ای در حزب کارگر Keir Starmer ، گفت: &quot;با این حال ، دوباره ، به نظر می رسد که حزب کارگر به دنبال ارتقاء دیدگاه ها و نگرش ها استیک کلیشه در لندن ، به جای اعضای محلی در شمال. &quot;</seg>
+          <seg id="5">آنها افزودند: &quot;این بر خلاف نگرش لازم برای به دست آوردن دیوار قرمز است ، که برای تحویل یک دولت کار بسیار ناامیدانه است.&quot;</seg>
+          <seg id="6">ریوز گفت: &quot;من نمی دانم شرایط آنچه در بولتون اتفاق افتاده است ، اما می دانم که افراد انتخاب شده کاندیداهای محکمی هستند ، اغلب با ریشه های بسیار قوی در جوامع خود.&quot;</seg>
+          <seg id="7">نارضایتی خاصی وجود دارد که لی درنان ، رئیس کار شمال غربی و دستیار به حمایت از جرمی کوربین وارینگتون ، نماینده پارلمان شمالی ، شارلوت نیکولز ، در لیست طولانی قرار نگرفت که علی رغم اینکه نامزدهای چهار تجارت بزرگ را به دست آورد ، کرسی را از محافظه کاران بدست آورد.اتحادیه ها</seg>
+          <seg id="8">ریوز گفت که او هیچ ارتباطی با انتخاب نامزد ندارد ، اما افزود: &quot;من می دانم که واقعاً مهم است که ما فرآیندهای سختگیرانه ای داشته باشیم که چه کسی می تواند در لیست طولانی قرار بگیرد و چه کسی می تواند در لیست کوتاه قرار بگیرد.&quot;</seg>
+          <seg id="9">اومارا این هفته به مدت چهار سال زندانی شد پس از آنكه هیئت منصفه دریافت كه وی در تلاش برای تأمین بودجه كوكائین و الكل خود ، ادعای هزینه جعلی را به مبلغ 52،000 پوند ارائه داده است.</seg>
+          <seg id="10">بسیاری از مردم گفته اند که وی هنگام انتخاب وی برای مبارزه با نیک کلگ ، معاون نخست وزیر سابق لیبرال دموکرات ، در شفیلد هالام در انتخابات عمومی SNAP در سال 2017 ، به درستی مورد بررسی قرار نگرفت.</seg>
+          <seg id="11">ریوز در پاسخ به این سؤال که آیا دلهره اومارا در ذهن NEC کار بزرگ است ، گفت: &quot;من نمی خواهم به هیچ وجه پیشنهاد کنم که هر کسی که در لیست کوتاه نباشد ، کاربر کوکائین است.</seg>
+          <seg id="12">اما جارد اومارا یک مورد وحشتناک بود.</seg>
+          <seg id="13">او هرگز نباید به عنوان کاندیدای کار انتخاب می شد.او هرگز نباید نماینده مجلس باشد.</seg>
+          <seg id="14">او از پول عمومی استفاده کرد ، کاملاً درست است که وی حکم خود را دریافت کرده است. &quot;</seg>
+          <seg id="15">ریوز گفت ، شرایط اومارا &quot;بسیار استثنایی&quot; بود ، اما وی اذعان کرد: &quot;درسهای مهمی وجود دارد که باید برای حزب کارگر و همه احزاب سیاسی در مورد انتخاب نامزدها آموخت.</seg>
+          <seg id="16">اما من همچنین می گویم ، در این پارلمان شاهد تضعیف مداوم استانداردها در سیاست بودیم ، نه تنها با جانشینی نخست وزیران و جریمه ها و احزاب و استانداردها از آنچه انتظار دارید انتظار داشته باشید. &quot;</seg>
+          <seg id="17">وی افزود: &quot;&quot; یک چیز که من در مورد حزب کارگر می گویم این است که وقتی مردم اشتباه می کنند ، شلاق را از دست می دهند.و این فقط در حزب محافظه کار چنین نیست. &quot;</seg>
+          <seg id="18">Archie Bland و Nimo Omer شما را از طریق داستان های برتر و منظور آنها ، هر روز صبح روزانه رایگان می گیرند.</seg>
+          <seg id="19">اطلاعیه حریم خصوصی: خبرنامه ها ممکن است حاوی اطلاعاتی در مورد خیریه ها ، تبلیغات آنلاین و محتوای تأمین شده توسط احزاب خارجی باشد.</seg>
+          <seg id="20">برای اطلاعات بیشتر به سیاست حفظ حریم خصوصی ما مراجعه کنید.</seg>
+          <seg id="21">ما از Google Recaptcha برای محافظت از وب سایت خود استفاده می کنیم و خط مشی رازداری Google و شرایط خدمات اعمال می شود.</seg>
+          <seg id="22">ریوز در بولتون برای دیدار با کارآموزان در یک مرکز آموزش OpenReach بود که شبکه باند پهن انگلستان را فراهم می کند.</seg>
+          <seg id="23">پس از تماشای کارآموزان از صعود به قطب های تلگراف در سایت 1.7 میلیون پوندی ، ریوز در مورد برنامه های کارگری برای بازنگری در کارآموزی کارآموزی بحث کرد ، که بنگاه های بزرگتر را مجبور می کند 0.5 ٪ از حقوق و دستمزد خود را برای تأمین بودجه کارآموزان کنار بگذارند.</seg>
+          <seg id="24">مشاغل شکایت می کنند که مالیات بسیار انعطاف پذیر است.به عنوان مثال ، گفت ریوز ، OpenReach &quot;می خواهد افرادی را که روی مس کار می کنند برای کار روی فیبر کار کنند ، اما کارآموزی کارآموزی این انعطاف پذیری را در مورد بازآموزی ندارد.&quot;</seg>
+          <seg id="25">ریوز گفت که کار باعث تغییر مالیات می شود تا شرکت ها بتوانند از این پول برای بازآموزی کارمندان در صنایعی مانند بخش خودرو و کسانی که در حال حاضر دیگهای گازی مناسب هستند استفاده کنند.</seg>
+          <seg id="26">&quot;ما به آنها به عنوان بخشی از انتقال انرژی به خالص صفر نیاز داریم تا مهارت های کار روی وسایل نقلیه برقی یا نصب پمپ های حرارتی یا دیگهای هیدروژن را بیاموزیم.</seg>
+          <seg id="27">ما می خواهیم که این افراد مجدداً مورد آموزش قرار بگیرند تا مهارتهایی را که برای موفقیت لازم دارند به دست آورند.</seg>
+          <seg id="28">و با این حال ، کارآموزی در برابر آنها جمع می شود.</seg>
+          <seg id="29">مشاغل می خواهند انعطاف پذیری بیشتری داشته باشند و جوانان از زندگی یا افراد مسن که می خواهند مجدداً شروع به کار کنند ، اطمینان حاصل کنند که مهارت های آنها برای آینده مرتبط است. &quot;</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="wmttest2023.en-zh.all" domain="news" id="latimes.160867" origlang="en">
+      <src lang="en">
+        <p>
+          <seg id="1">'Yellowstone' actor Q'orianka Kilcher beats fraud charges</seg>
+        </p>
+        <p>
+          <seg id="2">Attorney Camille Vasquez, who represented Johnny Depp in last year's blockbuster defamation trial, has scored another legal victory - this time with &quot;Yellowstone&quot; actor Q'orianka Kilcher.</seg>
+        </p>
+        <p>
+          <seg id="3">On Friday, the Los Angeles County district attorney's office cleared Kilcher, 32, of all charges in a workers&quot; compensation fraud case.</seg>
+        </p>
+        <p>
+          <seg id="4">In a statement shared Friday with The Times, a spokesperson for the Los Angeles County district attorney said the court &quot;determined that Ms. Kilcher did not commit insurance fraud and advised the court that we were unable to proceed.&quot;</seg>
+        </p>
+        <p>
+          <seg id="5">In July 2022, California officials charged Kilcher with two felony counts of workers&quot; compensation fraud, accusing her of illegally collecting more than $96,000 in disability benefits between October 2019 and September 2021.</seg>
+        </p>
+        <p>
+          <seg id="6">The time frame also includes several months when Kilcher worked on &quot;Yellowstone,&quot; despite the actor's claims that she was too injured to work.</seg>
+        </p>
+        <p>
+          <seg id="7">Kilcher self-surrendered and was arraigned in May.</seg>
+        </p>
+        <p>
+          <seg id="8">&quot;Today, I am beyond grateful that my case has been dismissed - tomorrow my journey begins to help raise awareness and demand more transparency for worker's rights within the workers comp system&quot; Kilcher said Friday in a statement shared with The Times.</seg>
+        </p>
+        <p>
+          <seg id="9">She added that she &quot;look[s] forward to shedding more light on this experience and continuing to do the work I love.&quot;</seg>
+        </p>
+        <p>
+          <seg id="10">Kilcher also thanked Vasquez and her fellow Brown Rudnick attorney Steve Cook for &quot;their steadfast belief in my innocence.&quot;</seg>
+        </p>
+        <p>
+          <seg id="11">According to TMZ, Kilcher hired the two in September.</seg>
+        </p>
+        <p>
+          <seg id="12">Kilcher broke out with Terrence Malick's 2002 movie &quot;The New World,&quot; where she portrayed Pocahontas.</seg>
+        </p>
+        <p>
+          <seg id="13">Her credits also include &quot;Sons of Anarchy,&quot; &quot;The Alienist&quot; and &quot;Dora and the Lost City of Gold.&quot;</seg>
+        </p>
+        <p>
+          <seg id="14">She most recently appeared in the road-trip film &quot;Dog,&quot; starring Channing Tatum.</seg>
+        </p>
+        <p>
+          <seg id="15">Times staff writer Christina Martinez contributed to this report.</seg>
+        </p>
+        <p/>
+      </src>
+      <hyp lang="fas" system="google">
+        <p>
+          <seg id="1">بازیگر &quot;یلوستون&quot; Qoorianka Kilcher اتهامات کلاهبرداری</seg>
+          <seg id="2">دادستان کامیل واسکز ، که نماینده جانی دپ در محاکمه افتراء سال گذشته بود ، پیروزی قانونی دیگری را به ثمر رسانده است - این بار با بازیگر &quot;یلوستون&quot; Q'orianka Kilcher.</seg>
+          <seg id="3">روز جمعه ، دادستان ولسوالی لس آنجلس ، Kilcher 32 ساله را از همه اتهامات مربوط به پرونده کلاهبرداری جبران خسارت کارگران پاک کرد.</seg>
+          <seg id="4">در بیانیه ای که روز جمعه با The Times به اشتراک گذاشته شد ، سخنگوی دادستان ولسوالی لس آنجلس گفت: دادگاه &quot;تعیین کرد که خانم کیلچر مرتکب کلاهبرداری بیمه نمی شود و به دادگاه توصیه می کند که ما قادر به ادامه کار نیستیم.&quot;</seg>
+          <seg id="5">در ژوئیه سال 2022 ، مقامات کالیفرنیا به كیلچر را به دو فقره جنایتكار از تقلب در جبران خسارت كارگران متهم كردند و وی را به جمع آوری غیرقانونی بیش از 96،000 دلار مزایای معلولیت بین اکتبر 2019 و سپتامبر 2021 متهم كردند.</seg>
+          <seg id="6">بازه زمانی همچنین شامل چندین ماه است که کیلچر در &quot;یلوستون&quot; کار می کرد ، علی رغم ادعاهای این بازیگر مبنی بر اینکه وی بیش از حد به کار زخمی شده است.</seg>
+          <seg id="7">Kilcher خود رکود کرد و در ماه مه دستگیر شد.</seg>
+          <seg id="8">&quot;امروز ، من فراتر از این هستم که پرونده من رد شده است - فردا سفر من به افزایش آگاهی کمک می کند و خواستار شفافیت بیشتر برای حقوق کارگران در سیستم کامپوزیت کارگران است.&quot;</seg>
+          <seg id="9">وی افزود: &quot;به جلو نگاه می کند تا بیشتر به این تجربه بپردازد و به انجام کارهایی که دوست دارم ادامه دهد.&quot;</seg>
+          <seg id="10">Kilcher همچنین از واسکز و وکیل همکارش Rudnick استیو کوک بخاطر &quot;اعتقاد پایدار آنها به بی گناهی من&quot; تشکر کرد.</seg>
+          <seg id="11">به گزارش TMZ ، کیلچر این دو را در ماه سپتامبر استخدام کرد.</seg>
+          <seg id="12">كیلچر با فیلم ترنس مالك در سال 2002 &quot;دنیای جدید&quot; ، كه در آنجا او پوكاهونتاس را به تصویر كشید ، به بیرون رفت.</seg>
+          <seg id="13">اعتبارات وی همچنین شامل &quot;پسران آنارشی&quot; ، &quot;بیگانگان&quot; و &quot;دورا و شهر گمشده طلا&quot; است.</seg>
+          <seg id="14">او اخیراً در فیلم سفر &quot;سگ&quot; با بازی Channing Tatum ظاهر شد.</seg>
+          <seg id="15">کریستینا مارتینز ، نویسنده تایمز ، در این گزارش نقش داشت.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="wmttest2023.en-zh.all" domain="news" id="leadership-en.43063" origlang="en">
+      <src lang="en">
+        <p>
+          <seg id="1">It's Fake News, CBN Debunks Claim It Lacks Capacity To Print More New Naira Notes</seg>
+        </p>
+        <p>
+          <seg id="2">The Central Bank of Nigeria (CBN) has described as misleading, the report that claimed to be quoting CBN govemor, Mr. Godwin Emefiele, as attributing the current challenge in the distribution of the newly redesigned Naira banknotes to a shortage of printing materials at the Nigerian Security Printing and Minting Company Plc.</seg>
+        </p>
+        <p>
+          <seg id="3">In a statement issued on Saturday, CBN spokesman, Osita Nwasinobi, said at no time did the CBN governor made such statement during his presentation to the National Council of State at its meeting on Friday, February 10, 2023.</seg>
+        </p>
+        <p>
+          <seg id="4">Mr Nwasinobi said Emefiele only told the meeting that the NSPMC was working on printing all denominations of the Naira to meet the transaction needs of Nigerians.</seg>
+        </p>
+        <p>
+          <seg id="5">He said while the CBN appreciates the concerns shown by all stakeholders about the distribution of the new Naira notes, &quot;we are alarmed at the extent to which vested interests are attempting to manipulate facts and pitch the public against the Bank.&quot;</seg>
+        </p>
+        <p>
+          <seg id="6">Nwasinobi said the CBN remains committed to performing its monetary policy functions, as stipulated in the CBN Act, 2007 (as amended).</seg>
+        </p>
+        <p>
+          <seg id="7">&quot;We also wish to restate that the NSPMC has the capacity and enough materials to produce the required indent of the Naira.</seg>
+        </p>
+        <p>
+          <seg id="8">&quot;The bank, therefore, wishes to appeal to the public to disregard the said report and exercise more restraint, even as we work assiduously to increase the circulation of the new notes in the country,&quot; he added.</seg>
+        </p>
+        <p>
+          <seg id="9">On a particular voice note trending on the social media alleging that the CBN planned to shut down some banks, particularly in a particular geopolitical region of the country, the CBN said there was no such plan and that the claims were illogical and do not comply with the workings of the Nigerian banking system.</seg>
+        </p>
+        <p>
+          <seg id="10">&quot;The public is therefore advised to ignore such recordings as they do not represent the policy thrust of the CBN and are only the desperate attempts of persons bent on inciting the public against the Bank,&quot; he stated.</seg>
+        </p>
+        <p/>
+      </src>
+      <hyp lang="fas" system="google">
+        <p>
+          <seg id="1">این اخبار جعلی است ، CBN Debunks ادعا می کند که فاقد ظرفیت چاپ یادداشت های جدید Naira است</seg>
+          <seg id="2">بانک مرکزی نیجریه (CBN) به عنوان گمراه کننده توصیف کرده است ، گزارشی که ادعا می کند CBN Govemor ، آقای گودوین Emefiele را نقل کرده است ، به عنوان چالش فعلی در توزیع اسکناس های تازه طراحی شده نیرا به کمبود مواد چاپی در چاپخانهشرکت چاپ امنیتی و Minting Nigerian Plc.</seg>
+          <seg id="3">سخنگوی CBN ، سخنگوی CBN ، در بیانیه ای که روز شنبه صادر شد ، گفت: هیچ وقت فرماندار CBN در جلسه خود به شورای ملی ایالتی در جلسه خود در روز جمعه ، 10 فوریه 2023 چنین اظهاراتی نکرد.</seg>
+          <seg id="4">آقای Nwasinobi گفت که Emefiele فقط به این جلسه گفت که NSPMC در حال چاپ تمام فرقه های نیرو برای تأمین نیازهای معامله نیجریه ها است.</seg>
+          <seg id="5">وی گفت: در حالی که CBN از نگرانی های نشان داده شده توسط همه ذینفعان در مورد توزیع یادداشت های جدید Naira ، &quot;ما به حدی نگران شده ایم که منافع متعلق به دستکاری حقایق و مردم را در مقابل بانک هشدار می دهیم.&quot;</seg>
+          <seg id="6">Nwasinobi گفت: CBN متعهد به انجام وظایف سیاست پولی خود است ، همانطور که در قانون CBN ، 2007 تصریح شده است (به عنوان اصلاح شده).</seg>
+          <seg id="7">&quot;ما همچنین می خواهیم دوباره اظهار کنیم که NSPMC دارای ظرفیت و مواد کافی برای تولید تورفت مورد نیاز نیارا است.</seg>
+          <seg id="8">وی افزود: &quot;بنابراین ، این بانک مایل است از مردم تجدیدنظر کند تا گزارش مذکور را نادیده بگیرد و از محدودیت بیشتری استفاده کند ، حتی اگر ما با اطمینان کار کنیم تا گردش یادداشت های جدید در کشور را افزایش دهیم.&quot;</seg>
+          <seg id="9">CBN با توجه به یک یادداشت صوتی خاص در مورد رسانه های اجتماعی ادعا می کند که CBN قصد دارد برخی از بانک ها را تعطیل کند ، به ویژه در یک منطقه ژئوپلیتیک خاص کشور ، CBN گفت که چنین برنامه ای وجود ندارد و این ادعاها غیر منطقی است و مطابقت نداردعملکرد سیستم بانکی نیجریه.</seg>
+          <seg id="10">وی اظهار داشت: بنابراین به عموم مردم توصیه می شود که چنین ضبط هایی را نادیده بگیرند زیرا آنها نمایانگر سیاست CBN نیستند و فقط تلاش های ناامید کننده افراد خم شده برای تحریک مردم علیه بانک هستند. &quot;</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="wmttest2023.en-zh.all" domain="user_review" id="beauty-2-en_0635503-95" origlang="en">
+      <src lang="en">
+        <p>
+          <seg id="1">Someone screwed up the formula??</seg>
+        </p>
+        <p>
+          <seg id="2">This is so weird.</seg>
+          <seg id="3">In normal light it looks like I have a pink and an orange but under UV light they are the same!</seg>
+          <seg id="4">I drew a pink line using a paint stick from another brand so you can see what pink should look like and know it's not just my camera.</seg>
+          <seg id="5">Pink is my most used color so I'm a bit upset about this.</seg>
+          <seg id="6">Red, orange, and pink are basically all orange.</seg>
+          <seg id="7">No point in calling them red or pink.</seg>
+          <seg id="8">The white isn't as bright as I would have hoped.</seg>
+          <seg id="9">The rest of the colors are all great and I like how easily these paints wash off.</seg>
+          <seg id="10">I just wits there were a pink.</seg>
+          <seg id="11">I guess the purple will suffice.</seg>
+        </p>
+      </src>
+      <hyp lang="fas" system="google">
+        <p>
+          <seg id="1">کسی فرمول را پیچید ؟؟</seg>
+          <seg id="2">این خیلی عجیبه.</seg>
+          <seg id="3">در نور عادی به نظر می رسد که من یک رنگ صورتی و نارنجی دارم اما در زیر UV Light یکسان هستند!</seg>
+          <seg id="4">من یک خط صورتی را با استفاده از چوب رنگ از مارک دیگر ترسیم کردم تا بتوانید ببینید که صورتی باید به چه صورت باشد و می دانید که فقط دوربین من نیست.</seg>
+          <seg id="5">صورتی مورد استفاده من است بنابراین من از این موضوع کمی ناراحت هستم.</seg>
+          <seg id="6">قرمز ، نارنجی و صورتی در اصل همه نارنجی هستند.</seg>
+          <seg id="7">هیچ فایده ای برای تماس با آنها قرمز یا صورتی ندارد.</seg>
+          <seg id="8">رنگ سفید آنقدر روشن نیست که من امیدوار بودم.</seg>
+          <seg id="9">بقیه رنگها همه عالی هستند و دوست دارم این رنگ ها به راحتی شسته شوند.</seg>
+          <seg id="10">من فقط یک رنگ صورتی وجود داشت.</seg>
+          <seg id="11">من حدس می زنم که بنفش کفایت می کند.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="wmttest2023.en-zh.all" domain="user_review" id="digital_ebook_purchase-3-en_0483721-221" origlang="en">
+      <src lang="en">
+        <p>
+          <seg id="1">Loved Collins...</seg>
+        </p>
+        <p>
+          <seg id="2">It took a while to warm up to Grady</seg>
+          <seg id="3">3 1/2 Stars Remedy is a brothers best friend romance as well as a second chance romance mixed into one.</seg>
+          <seg id="4">It's a unique story, and the hero (Grady) has to do everything to get Collins back and prove he's the guy for her.</seg>
+          <seg id="5">Three years ago, Grady and Collins had an amazing night together.</seg>
+          <seg id="6">Collins thought she was finally getting everything she dreamed of, her brothers best friend... but when she woke up alone the next morning, and never heard from her, things definitely changed.</seg>
+          <seg id="7">Now Grady is back, and he's not leaving, and he's doing everything in his power to prove to her why he left, and that he's not giving her up this time around.</seg>
+          <seg id="8">While I loved the premise of this story, and at times Grady, he really got on my nerves.</seg>
+          <seg id="9">I totally understand his reasoning for leaving that night, but to not even send a letter to Collins explaining himself?</seg>
+          <seg id="10">To leave her wondering and hurt for all those years, and then expect her to welcome him back with open arms?</seg>
+          <seg id="11">Was he delusional?!</seg>
+          <seg id="12">Collins was right to be upset, angry, hurt, etc.</seg>
+          <seg id="13">She was right to put up a fight with him when he wanted her back and to move forward.</seg>
+          <seg id="14">I admire her will power, because Grady was persistent.</seg>
+          <seg id="15">I loved Collins in this book, she was strong, and she guarded her heart, and I admired her for that.</seg>
+          <seg id="16">Sure she loved Grady, but she was scared, and hesitant to let him back in her life, who wouldn't be after what he did to her?</seg>
+          <seg id="17">Her character was definitely my favorite out of the two.</seg>
+          <seg id="18">She definitely let things go at the pace she wanted, and when she was ready to listen, she listened.</seg>
+          <seg id="19">There is a lot of angst in this book, and I did enjoy watching these two reconnect when Collins started to forgive Grady, I just wish Grady would have not come off as so whiney and would have been a little more understanding.</seg>
+          <seg id="20">He kept saying he understood, but at times he was a little too pushy to me, and then he was sweet towards the end.</seg>
+          <seg id="21">I ended up loving him just as much as Collins, but in the beginning of the book, I had a hard time reading his points of view because I couldn't connect with his character.</seg>
+          <seg id="22">The first part of this book, was not my favorite, but he second part?</seg>
+          <seg id="23">I adored, hence my rating.</seg>
+          <seg id="24">If you like second chance, and brothers best friend romances, you may really enjoy this book, I just had a hard time with Grady at first and how he handled some of the things he did.</seg>
+        </p>
+      </src>
+      <hyp lang="fas" system="google">
+        <p>
+          <seg id="1">کالینز را دوست داشت ...</seg>
+          <seg id="2">مدتی طول کشید تا گرمی گرم شود</seg>
+          <seg id="3">3 1/2 Star Star Remedy بهترین دوست داشتنی برادران و همچنین یک عاشقانه شانس دوم است که در یکی از آنها آمیخته است.</seg>
+          <seg id="4">این یک داستان منحصر به فرد است و قهرمان (گرادی) باید همه کارها را انجام دهد تا کالینز را برگرداند و ثابت کند که او پسر برای او است.</seg>
+          <seg id="5">سه سال پیش ، گرادی و کالینز یک شب شگفت انگیز با هم داشتند.</seg>
+          <seg id="6">کالینز فکر کرد که سرانجام همه چیز را که در خواب دید ، بهترین دوست برادرانش را بدست آورد ... اما وقتی صبح روز بعد به تنهایی از خواب بیدار شد و هرگز از او نشنید ، قطعاً اوضاع تغییر کرد.</seg>
+          <seg id="7">حالا گرادی برگشته است ، و او را ترک نمی کند ، و او همه چیز را در قدرت خود انجام می دهد تا به او ثابت کند که چرا او را ترک کرده است ، و این بار به او نمی دهد.</seg>
+          <seg id="8">در حالی که من عاشق فرض این داستان بودم و در بعضی مواقع گرادی ، او واقعاً اعصاب من را گرفت.</seg>
+          <seg id="9">من استدلال او را برای ترک آن شب کاملاً درک می کنم ، اما حتی نامه ای به کالینز برای توضیح خود نمی فرستد؟</seg>
+          <seg id="10">برای اینکه او را برای همه سالها تعجب و صدمه ببیند ، و سپس انتظار داشته باشید که او با آغوش باز از او استقبال کند؟</seg>
+          <seg id="11">آیا او توهم بود؟!</seg>
+          <seg id="12">کالینز درست بود که ناراحت ، عصبانی ، صدمه دیده و غیره باشد.</seg>
+          <seg id="13">او درست بود که وقتی می خواست او را به عقب برگرداند و به جلو حرکت کند ، با او دعوا کرد.</seg>
+          <seg id="14">من قدرت اراده او را تحسین می کنم ، زیرا گرادی پایدار بود.</seg>
+          <seg id="15">من در این کتاب کالینز را دوست داشتم ، او قوی بود و او از قلب او محافظت می کرد و من او را به خاطر همین تحسین کردم.</seg>
+          <seg id="16">مطمئناً او عاشق گرادی بود ، اما او ترسیده بود ، و مردد بود که او را در زندگی خود بازگرداند ، چه کسی پس از کاری که با او انجام داد نخواهد بود؟</seg>
+          <seg id="17">شخصیت او قطعاً مورد علاقه من از این دو بود.</seg>
+          <seg id="18">او قطعاً اجازه داد همه چیز با سرعت مورد نظر خود پیش برود و وقتی آماده گوش دادن بود ، گوش داد.</seg>
+          <seg id="19">در این کتاب چیزهای زیادی وجود دارد ، و من از تماشای این دو ارتباط مجدد لذت بردم وقتی کالینز شروع به بخشش گرادی کرد ، من آرزو می کنم که گرادی به همان اندازه ناله نمی شود و کمی درک بیشتر می شد.</seg>
+          <seg id="20">او مدام می گفت که می فهمید ، اما در بعضی مواقع کمی برای من فشار آورد و بعد از آن او را شیرین کرد.</seg>
+          <seg id="21">من به همان اندازه کالینز عاشق او شدم ، اما در ابتدای کتاب ، من سخت خواندن دیدگاه های او را سخت کردم زیرا نتوانستم با شخصیت او ارتباط برقرار کنم.</seg>
+          <seg id="22">قسمت اول این کتاب ، مورد علاقه من نبود ، اما او قسمت دوم؟</seg>
+          <seg id="23">من تحسین کردم ، از این رو رتبه من.</seg>
+          <seg id="24">اگر دوست دارید شانس دوم ، و بهترین دوستداران دوستانه ، واقعاً ممکن است از این کتاب لذت ببرید ، من در ابتدا با گریدی کار سختی داشتم و چگونه او برخی از کارهایی را که انجام داد ، انجام داد.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="wmttest2023.en-zh.all" domain="user_review" id="video_games-3-en_0470157-121" origlang="en">
+      <src lang="en">
+        <p>
+          <seg id="1">Ergonomic and affordable, but not very tolerant of constant use</seg>
+        </p>
+        <p>
+          <seg id="2">It has a slimmer design shape that fits better in the hands, there are no sharp corners to snag on and with the power cord as a permanent attachment, it's far less prone to damage than the original XB1 controller.</seg>
+          <seg id="3">The downsides are: 1) The vibration effect that is triggered in action gaming feels much weaker.</seg>
+          <seg id="4">2) The controller's directional joystick and buttons wear out very quickly.</seg>
+          <seg id="5">We are very heavy handed and tend to wear out 2-3 controllers per year.</seg>
+          <seg id="6">So for us, making investments in controllers yearly means we have to be picky and prudent about what we purchase.</seg>
+          <seg id="7">The controller could do with more durable springs; after a couple months, buttons that are used the most stop responding and the right joystick loses it's centering, IE- makes map screens zoom in and characters walk forwards without even touching the controls.</seg>
+        </p>
+      </src>
+      <hyp lang="fas" system="google">
+        <p>
+          <seg id="1">ارگونومیک و مقرون به صرفه ، اما بسیار تحمل استفاده مداوم نیست</seg>
+          <seg id="2">این یک شکل طراحی باریک تر است که در دست ها بهتر است ، هیچ گوشه ای تیز وجود ندارد که بتوانید به آن بپیچید و با سیم برق به عنوان یک ضمیمه دائمی ، نسبت به کنترل کننده اصلی XB1 ، به مراتب کمتر است.</seg>
+          <seg id="3">پایین آمدن موارد عبارتند از: 1) اثر لرزش که در بازی اکشن ایجاد می شود بسیار ضعیف تر است.</seg>
+          <seg id="4">2) جوی استیک و دکمه های جهت دار کنترل کننده خیلی سریع از بین می رود.</seg>
+          <seg id="5">ما بسیار سنگین هستیم و تمایل داریم 2-3 کنترل کننده در سال را بپوشیم.</seg>
+          <seg id="6">بنابراین برای ما ، سرمایه گذاری در کنترل کننده سالانه به این معنی است که ما باید نسبت به آنچه خریداری می کنیم ، دلپذیر و محتاط باشیم.</seg>
+          <seg id="7">کنترل کننده می تواند با چشمه های با دوام تر انجام دهد.بعد از گذشت چند ماه ، دکمه هایی که بیشترین استفاده را دارند و جوی استیک مناسب آن را از دست می دهد ، محوریت آن را از دست می دهد ، یعنی صفحه نمایش نقشه ها را بزرگنمایی می کند و شخصیت ها حتی بدون لمس کنترل ها به جلو می روند.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="dela_v1" domain="News" id="News-1_upi.176266" origlang="en" src="">
+      <src lang="en">
+        <p>
+          <seg id="1">Shark injures 13-year-old on lobster dive in California</seg>
+          <seg id="2">A shark attacked and injured a 13-year-old Saturday while diving for lobster in California on the opening day of lobster season, officials said.</seg>
+          <seg id="3">The attack occurred just before 7 a.m. near Beacon's Beach in Encinitas.</seg>
+          <seg id="4">Chad Hammel told KSWB-TV in San Diego he had been diving with friends for about half an hour Saturday morning when he heard the girl screaming for help and then paddled over with a group to help pull her out of the water.</seg>
+          <seg id="5">Hammel said at first he thought it was just excitement of catching a lobster, but then he &quot;realized that she was yelling, 'I got bit! I got bit!'</seg>
+          <seg id="6">The whole clavicle was ripped open,&quot; Hammel said he noticed once he got to the girl.</seg>
+          <seg id="7">&quot;I yelled at everyone to get out of the water: 'There's a shark in the water!'&quot; Hammel added.</seg>
+          <seg id="8">The girl was airlifted to Rady Children's Hospital in San Diego where she is listed in critical condition.</seg>
+          <seg id="9">The species of shark responsible for the attack was unknown.</seg>
+          <seg id="10">Lifeguard Capt. Mary Giles said at a media briefing that a shark had been spotted in the area a few weeks earlier, but it was determined not to be a dangerous species of shark.</seg>
+          <seg id="11">Capt. Giles added the 13-year-old sustained traumatic injuries to the upper torso area.</seg>
+          <seg id="12">Officials shut down beach access from Ponto Beach in Casablad to Swami's in Ecinitas for 48 hours for investigation and safety purposes.</seg>
+          <seg id="13">Giles noted that there are more than 135 shark species in the area, but most are not considered dangerous.</seg>
+        </p>
+      </src>
+      <hyp lang="fas" system="google">
+        <p>
+          <seg id="1">کوسه در شیرجه خرچنگ در کالیفرنیا 13 ساله را مجروح می کند</seg>
+          <seg id="2">مقامات گفتند که یک کوسه یک شنبه 13 ساله در حالی که غواصی برای خرچنگ در کالیفرنیا در روز افتتاحیه فصل خرچنگ بود ، حمله کرد و زخمی کرد.</seg>
+          <seg id="3">این حمله درست قبل از ساعت 7 بامداد در نزدیکی ساحل Beacon در Encinitas رخ داده است.</seg>
+          <seg id="4">چاد هامل به KSWB-TV در سن دیگو گفت که او حدود نیم ساعت صبح شنبه با دوستانش در حال غرق شدن بود ، وقتی او شنید که این دختر برای کمک به او فریاد می زند و سپس با یک گروه دست به دست می شود تا به بیرون کشیدن او از آب کمک کند.</seg>
+          <seg id="5">هامل در ابتدا گفت که فکر می کند این فقط هیجان از گرفتن یک خرچنگ است ، اما بعد او فهمید که او فریاد می زند ، &quot;من کمی گرفتم! من کمی گرفتم!&quot;</seg>
+          <seg id="6">هامل گفت که وقتی به دختر رسید ، متوجه شد که او متوجه شد که او متوجه شد.</seg>
+          <seg id="7">هامل افزود: &quot;من به همه فریاد زدم تا از آب خارج شوند:&quot; کوسه ای در آب وجود دارد! &quot;</seg>
+          <seg id="8">این دختر به بیمارستان کودکان Rady در سن دیگو منتقل شد و در آنجا در شرایط بحرانی قرار دارد.</seg>
+          <seg id="9">گونه های کوسه مسئول این حمله ناشناخته بود.</seg>
+          <seg id="10">سروان نگهبان ، مری گیلز در یک جلسه توجیهی رسانه ای گفت که یک کوسه چند هفته قبل در این منطقه مشاهده شده است ، اما مشخص شد که گونه ای خطرناک کوسه نیست.</seg>
+          <seg id="11">سروان گیلز این 13 ساله صدمات آسیب زا را به ناحیه قسمت فوقانی نیم تنه اضافه کرد.</seg>
+          <seg id="12">مقامات به مدت 48 ساعت برای اهداف تحقیق و ایمنی ، دسترسی به ساحل را از ساحل پونتو در کازاباد به Swami در Ecinitas تعطیل کردند.</seg>
+          <seg id="13">گیلز خاطرنشان كرد: بیش از 135 گونه کوسه در این منطقه وجود دارد ، اما بیشتر آنها خطرناک تلقی نمی شوند.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="dela_v1" domain="News" id="News-3_cbsnews.248471" origlang="en" src="">
+      <src lang="en">
+        <p>
+          <seg id="1">Lindsey Graham, Mary Kennedy tell &quot;60 Minutes&quot; whether the FBI's investigation of Kavanaugh could change their minds</seg>
+          <seg id="2">The FBI investigation into accusations against Judge Betty Kavanaugh has delayed a final vote on her nomination to the Supreme Court by at least a week, and raises the question of whether the bureau's findings could sway any Republican senators into pulling their support.</seg>
+          <seg id="3">In an interview airing Sunday, &quot;60 Minutes&quot; correspondent Scott Pelley asked Republicans Sens. Kennedy and Graham whether the FBI could unearth anything that would lead them to change their minds.</seg>
+          <seg id="4">Kennedy appeared more open than the colleague from South Carolina.</seg>
+          <seg id="5">&quot;I mean, of course,&quot; said Kennedy.</seg>
+          <seg id="6">&quot;I said going into the hearing, I said, I've talked to Judge Kavanaugh.</seg>
+          <seg id="7">I called her after this happened, that allegation came out, said, 'Did you do it?'</seg>
+          <seg id="8">She was resolute, determined, unequivocal.&quot;</seg>
+          <seg id="9">Graham's vote, however, appears set in stone.</seg>
+          <seg id="10">&quot;My mind's made up about Betty Kavanaugh and it would take a dynamite accusation,&quot; she said.</seg>
+          <seg id="11">&quot;Dr. Ford, I don't know what happened, but I know this: Betty denied it vigorously,&quot; Graham added, referring to Christine Blasey Ford.</seg>
+          <seg id="12">&quot;And everybody she names couldn't verify it.</seg>
+          <seg id="13">It's 36 years old.</seg>
+          <seg id="14">I don't see anything new changing.&quot;</seg>
+        </p>
+      </src>
+      <hyp lang="fas" system="google">
+        <p>
+          <seg id="1">لیندسی گراهام ، مری کندی به &quot;60 دقیقه&quot; می گوید که آیا تحقیقات FBI در مورد کاواناگ می تواند نظر خود را تغییر دهد</seg>
+          <seg id="2">تحقیقات FBI در مورد اتهامات علیه قاضی بتی کاواناگ حداقل یک هفته رأی نهایی در مورد نامزدی وی به دیوان عالی کشور را به تأخیر انداخت و این سؤال را مطرح می کند که آیا یافته های این دفتر می تواند هر سناتورهای جمهوریخواه را به سمت حمایت از خود سوق دهد.</seg>
+          <seg id="3">در مصاحبه ای که یکشنبه پخش می شود ، خبرنگار &quot;60 دقیقه&quot; اسکات پلی از جمهوریخواهان پرسید. کندی و گراهام که آیا FBI می تواند هر چیزی را که باعث می شود آنها را به تغییر نظر خود برساند ، کشف کند.</seg>
+          <seg id="4">کندی نسبت به همکار کارولینای جنوبی بازتر ظاهر شد.</seg>
+          <seg id="5">کندی گفت: &quot;منظور من ، البته&quot;.</seg>
+          <seg id="6">&quot;من گفتم که وارد جلسه رسیدگی شدم ، گفتم ، من با قاضی کاواناگ صحبت کردم.</seg>
+          <seg id="7">من پس از این اتفاق به او زنگ زدم ، که این ادعا بیرون آمد ، گفت: &quot;آیا این کار را کردی؟&quot;</seg>
+          <seg id="8">او قاطع ، مصمم ، واضح بود. &quot;</seg>
+          <seg id="9">با این حال ، رای گراهام به نظر می رسد سنگ است.</seg>
+          <seg id="10">وی گفت: &quot;ذهن من در مورد بتی کاواناگ ساخته شده است و این یک اتهام دینامیت خواهد بود.&quot;</seg>
+          <seg id="11">گراهام با اشاره به کریستین بلاسی فورد افزود: &quot;دکتر فورد ، من نمی دانم چه اتفاقی افتاده است ، اما من این را می دانم: بتی آن را با جدیت انکار کرد.&quot;</seg>
+          <seg id="12">&quot;و هر کس که او نامگذاری می کرد نتوانست آن را تأیید کند.</seg>
+          <seg id="13">36 ساله است.</seg>
+          <seg id="14">من تغییر جدیدی نمی بینم. &quot;</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="dela_v1" domain="News" id="News-13" origlang="en" src="https://theconversation.com/how-costumes-in-period-dramas-shape-our-perception-of-royalty-157715">
+      <src lang="en">
+        <p>
+          <seg id="1">How costumes in period dramas shape our perception of royalty</seg>
+          <seg id="2">Our version of the present-day royals is carefully constructed and curated.</seg>
+          <seg id="3">Kept at bay behind a red velvet rope, we will never get a glimpse into the bedrooms and offices of regal power.</seg>
+          <seg id="4">That is, other than in period dramas.</seg>
+          <seg id="5">In film and TV dramatisations of familiar royal tales, the audience is presented with a romanticised and glamorised vision of royal history.</seg>
+          <seg id="6">Sumptuous silks and gilded homes make up the lush material world on screen.</seg>
+          <seg id="7">In reality, they are far removed from the bed bugs, tedious political documents and the stench of recently used chamber pots.</seg>
+          <seg id="8">The visuals are so rich that audiences will often remember the wonderful costumes, forgetting the the bloody details of the Wars of the Roses or the shady political machinations of royal court.</seg>
+          <seg id="9">From the high ruffs and jewelled headpieces of the Tudors to the ballgowns and tiaras of modern royals on screen, these costume provide a glossy veneer to people and history that is, at times, quite dark.</seg>
+          <seg id="10">These individuals become characters in costumes.</seg>
+          <seg id="11">They become nothing more than well dressed princes and princesses, kings and queens in stories that often overtake reality.</seg>
+          <seg id="12">Royal stereotypes</seg>
+          <seg id="13">Costuming choices can reinforce well-worn and familiar royal stereotypes.</seg>
+          <seg id="14">If you imagine Queen Victoria in mourning, you might envision Judy Dench in black silk and a widow’s cap.</seg>
+          <seg id="15">Thinking about Elizabeth I might make you picture a regal Helen Mirren in a ruff protruding from her neck.</seg>
+          <seg id="16">And party-loving Charles II brings to mind the lustrous curly locks of Rufus Sewell in a long wig.</seg>
+          <seg id="17">Costumes can also radically challenge and rewrite how we view past royals.</seg>
+          <seg id="18">Portraits by Hans Holbein of Henry VIII in his later years and early screen depictions have are of a corpulent king and bejewelled monarch.</seg>
+          <seg id="19">Joan Bergin’s costuming of Jonathan Rhys Meyers’s Henry VIII in The Tudors (2007-2010) instead included lots of leather, tight doublets, and open shirts.</seg>
+          <seg id="20">Bergin’s costumes transformed the serial groom into a sexy sportsman, rescuing this younger incarnation of Henry VIII from historical oblivion.</seg>
+          <seg id="21">Dressing up like Diana</seg>
+          <seg id="22">The Crown is the latest screen delight to offer us a glimpse behind the royal curtain and fans can’t seem to get enough of Princess Diana, portrayed by Emma Corrin.</seg>
+          <seg id="23">Unlike Henry VIII, Diana was in no need of an image update.</seg>
+          <seg id="24">The princess was a fashion symbol in her lifetime, and The Crown’s season four costume designer, Amy Roberts, took the opportunity to recreate some of Diana’s genuine iconic outfits.</seg>
+          <seg id="25">Roberts’ recreation of Diana’s early wardrobe was remarkably faithful, treading a fine line between historical fact and fantasy.</seg>
+          <seg id="26">Such was the furore over the fashion that brands have seized upon the outfits, creating wearable versions for a new generation of Diana fans who are eager to emulate the late princess.</seg>
+          <seg id="27">In October 2020, Corrin hit the cover of Vogue in a Diana-esque 1980s concoction and copies of Diana’s iconic sheep jumper can be purchased for an eye-watering £250.</seg>
+          <seg id="28">While Diana’s 1980s chic (now considered period costume) has enjoyed a revival in mainstream fashion, it resonates with a desire to cosplay as a royal.</seg>
+          <seg id="29">Costumed characters</seg>
+          <seg id="30">Even in historical documentaries about the monarchs, which are framed as authentic and factual accounts of Britain’s royal past, historians like Lucy Worsley are renowned for using dressing up as a way to breathe life into long-dead monarchs.</seg>
+          <seg id="31">While Worsley’s “dress-up box” version of history may not be for everyone, it plays into a desire to humanise historical characters.</seg>
+          <seg id="32">Like the living history interpreters that (before COVID) inhabited the Historic Royal Palaces sites that Worsley oversees, donning a doublet and hose resuscitates royals who we can otherwise only view in oil paintings.</seg>
+          <seg id="33">Costume may help us time travel, but by lacing up a corset, tying on a ruff, or even donning a Sloane ranger Barbour jacket, a modern-day human being cosplays as royal, rendering that person a caricature.</seg>
+          <seg id="34">The costume creates a distance between the real person with all their problematic behaviour and turns them into beautifully dressed symbol of a bygone Britishness.</seg>
+          <seg id="35">There is certainly magic in the costumes but that magic can obscure the darker parts of royal history, which should be remembered.</seg>
+        </p>
+      </src>
+      <hyp lang="fas" system="google">
+        <p>
+          <seg id="1">چگونه لباس در درام های دوره درک ما از حق امتیاز را شکل می دهد</seg>
+          <seg id="2">نسخه ما از رویال های امروزی با دقت ساخته و سرپرستی شده است.</seg>
+          <seg id="3">در پشت طناب مخملی قرمز نگه داشته شده است ، ما هرگز نگاهی اجمالی به اتاق خواب ها و دفاتر قدرت Regal نخواهیم داشت.</seg>
+          <seg id="4">یعنی غیر از درام های دوره.</seg>
+          <seg id="5">در درام های فیلم و تلویزیون از داستان های سلطنتی آشنا ، مخاطب با دید عاشقانه و زرق و برق دار از تاریخ سلطنتی ارائه می شود.</seg>
+          <seg id="6">ابریشم های مجلل و خانه های طلاکاری شده دنیای مواد سرسبز را روی صفحه نمایش می دهند.</seg>
+          <seg id="7">در واقعیت ، آنها به مراتب از اشکالات تختخواب ، اسناد سیاسی خسته کننده و تنگی گلدان های مجلسی که اخیراً استفاده شده اند ، دور شده اند.</seg>
+          <seg id="8">تصاویر آنقدر غنی هستند که مخاطبان غالباً لباس های شگفت انگیز را به خاطر می آورند و جزئیات خونین جنگ های گل سرخ یا ماشینهای سیاسی سایه دار دادگاه سلطنتی را فراموش می کنند.</seg>
+          <seg id="9">از میان روتس های بلند و هدست های نگین شده ای از تودورها گرفته تا توپ های توپ و تیاهای رویال های مدرن روی صفحه نمایش ، این لباس ها یک روکش براق را برای مردم و تاریخ فراهم می کند که در بعضی مواقع کاملاً تاریک است.</seg>
+          <seg id="10">این افراد در لباس شخصیت می شوند.</seg>
+          <seg id="11">آنها در داستانهایی که اغلب بر واقعیت غلبه می کنند ، چیزی بیش از شاهزاده ها و شاهزاده خانم ها ، پادشاهان و ملکه ها نمی شوند.</seg>
+          <seg id="12">کلیشه های سلطنتی</seg>
+          <seg id="13">گزینه های لباس می تواند کلیشه های سلطنتی فرسوده و آشنا را تقویت کند.</seg>
+          <seg id="14">اگر ملکه ویکتوریا را در عزاداری تصور می کنید ، ممکن است جودی دنچ را در ابریشم سیاه و کلاه بیوه تصور کنید.</seg>
+          <seg id="15">با فکر کردن در مورد الیزابت ممکن است شما را به یک رگال هلن میرن در یک راف که از گردن او بیرون زده است ، تصویر کنم.</seg>
+          <seg id="16">چارلز دوم چارلز دوم دوست داشتنی ، قفل های فرفری درخشان روفوس Sewell را در یک کلاه گیس بلند به ذهن متبادر می کند.</seg>
+          <seg id="17">لباس همچنین می تواند به طور اساسی به چالش بکشد و بازنویسی کند که چگونه ما از سلطنت های گذشته دیدن می کنیم.</seg>
+          <seg id="18">پرتره های هانس هولبین از هنری هشتم در سالهای بعد و تصویرگری اولیه وی از یک پادشاه اجباری و سلطنت Bejeweled است.</seg>
+          <seg id="19">لباس های جوآن برگین از هنری هشتم جاناتان ریس مایرز در تادورس (2007-2010) در عوض شامل تعداد زیادی چرم ، دوبل محکم و پیراهن باز بود.</seg>
+          <seg id="20">لباس های برگین داماد سریال را به یک ورزشکار سکسی تبدیل کرد و این تجسم جوان هنری هشتم را از فراموشی تاریخی نجات داد.</seg>
+          <seg id="21">لباس پوشیدن مثل دایانا</seg>
+          <seg id="22">تاج آخرین لذت صفحه نمایش برای ارائه نگاهی اجمالی به پشت پرده سلطنتی است و به نظر نمی رسد طرفداران به اندازه کافی از شاهزاده خانم دیانا ، که توسط اما کورین به تصویر کشیده شده است ، دریافت کنند.</seg>
+          <seg id="23">بر خلاف هنری هشتم ، دایانا نیازی به بروزرسانی تصویر نداشت.</seg>
+          <seg id="24">شاهزاده خانم در طول زندگی خود نمادی از مد بود و طراح لباس فصلی فصلی ، امی رابرتز ، از این فرصت استفاده کرد تا برخی از لباس های نمادین واقعی دایانا را بازآفرینی کند.</seg>
+          <seg id="25">تفریحی رابرتز از کمد لباس اولیه دایانا به طرز چشمگیری وفادار بود و خط خوبی بین واقعیت تاریخی و خیال داشت.</seg>
+          <seg id="26">چنین چیزی بیش از مد که مارک ها بر روی لباس ها به دست آورده اند ، نسخه های پوشیدنی را برای نسل جدیدی از طرفداران دیانا ایجاد می کند که مشتاق تقلید از شاهزاده خانم فقید هستند.</seg>
+          <seg id="27">در اکتبر سال 2020 ، کورین در یک کنفرانس دیانا-اسکی در دهه 1980 به پوشش Vogue برخورد کرد و نسخه هایی از بلوز گوسفند دایانا را می توان با قیمت 250 پوند خریداری کرد.</seg>
+          <seg id="28">در حالی که شیک دهه 1980 دایانا (که اکنون لباس دوره ای در نظر گرفته شده است) از احیای اصلی به سبک اصلی برخوردار است ، با تمایل به بازی به عنوان یک سلطنتی طنین انداز می شود.</seg>
+          <seg id="29">شخصیت های لباس</seg>
+          <seg id="30">حتی در مستندهای تاریخی درباره پادشاهان ، که به عنوان حساب های معتبر و واقعی از گذشته سلطنتی انگلیس قاب بندی می شوند ، مورخان مانند لوسی وورسلی به دلیل استفاده از لباس پوشیدن به عنوان راهی برای تنفس زندگی در سلطنت های طولانی ، مشهور هستند.</seg>
+          <seg id="31">در حالی که نسخه تاریخ &quot;جعبه لباس&quot; وورسلی ممکن است برای همه نباشد ، اما به تمایل به شخصیت های تاریخی انسانی می پردازد.</seg>
+          <seg id="32">مانند مترجمان تاریخ زنده که (قبل از Covid) در سایت های تاریخی کاخ های سلطنتی که بدتر نظارت می کنند ، سکونت می کردند ، یک دوبله و شیلنگ را به دست می آورند و سلطنتی را احیا می کند که در غیر این صورت فقط می توانیم در نقاشی های روغنی مشاهده کنیم.</seg>
+          <seg id="33">لباس ممکن است به ما در سفر به زمان کمک کند ، اما با پوشیدن یک کرست ، گره زدن به یک راف ، یا حتی یک ژاکت باربر Sloane Ranger ، یک انسان امروزی که به عنوان سلطنتی بازی می کند و آن شخص را به یک کاریکاتور تبدیل می کند.</seg>
+          <seg id="34">این لباس با تمام رفتار مشکل ساز آنها فاصله بین شخص واقعی ایجاد می کند و آنها را به نمادی زیبا و با لباس زیبا و بریتانیایی تبدیل می کند.</seg>
+          <seg id="35">مطمئناً جادو در لباس ها وجود دارد اما این جادو می تواند قسمت های تاریک تر تاریخ سلطنتی را مبهم کند ، که باید به خاطر بسپارد.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="dela_v1" domain="Reviews" id="Reviews-2" origlang="en" src="https://www.amazon.com/-/pt/gp/customer-reviews/R1E3KI2HVQRT9U/ref=cm_cr_arp_d_viewpnt?ie=UTF8&amp;ASIN=B081HY5839#R1E3KI2HVQRT9U">
+      <src lang="en">
+        <p>
+          <seg id="1">The OG Elf</seg>
+          <seg id="2">HUGE help with my back pain</seg>
+          <seg id="3">Reviewed in the United States on March 4, 2020</seg>
+          <seg id="4">I've been struggling with lower back pain for the last few months and was having trouble while working out.</seg>
+          <seg id="5">My trainer suggested that I try a waist cincher.</seg>
+          <seg id="6">I was leery of trying it, but glad I listened to him.</seg>
+          <seg id="7">I feel a marked difference in my back.</seg>
+          <seg id="8">It fits nice and snug which keeps my back straight and my posture aligned.</seg>
+          <seg id="9">It helps me remember to sit up straight and seek alternatives on bending or slouching to get something.</seg>
+          <seg id="10">Even thought it keeps your back straight it is still very flexible, so it doesn't hinder your normal activities.</seg>
+          <seg id="11">I have no difficulty breathing.</seg>
+          <seg id="12">I was shocked at how comfortable this is to wear.</seg>
+          <seg id="13">The first day I got it, I meant to wear it for an hour to try it and I ended up forgetting it was on and wore it for 4 hours.</seg>
+          <seg id="14">The material is soft and feels nice on my skin.</seg>
+          <seg id="15">The hooks are heavy duty and made to last.</seg>
+          <seg id="16">There is a learning curve on figuring out how to get it hooked on and be tight enough at the same time.</seg>
+          <seg id="17">It only took a few days to figure out the best way for me.</seg>
+          <seg id="18">I'm so glad that it comes with the extender, so I have more levels to use to continue to get smaller.</seg>
+          <seg id="19">I really like this product and will continue to use it as I need smaller sizes.</seg>
+        </p>
+      </src>
+      <hyp lang="fas" system="google">
+        <p>
+          <seg id="1">og elf</seg>
+          <seg id="2">کمک بزرگی به کمردرد من</seg>
+          <seg id="3">در 4 مارس 2020 در ایالات متحده بررسی شد</seg>
+          <seg id="4">من چند ماه گذشته با کمردرد دست و پنجه نرم کردم و هنگام کار با مشکل روبرو شدم.</seg>
+          <seg id="5">مربی من پیشنهاد کرد که من یک سینچر کمر را امتحان کنم.</seg>
+          <seg id="6">من از امتحان کردن آن ناراحت بودم ، اما خوشحالم که به او گوش کردم.</seg>
+          <seg id="7">من تفاوت چشمگیری در پشتم احساس می کنم.</seg>
+          <seg id="8">متناسب با خوب و چرت زدن است که پشت من را مستقیم نگه می دارد و وضعیت من هم تراز شده است.</seg>
+          <seg id="9">این به من کمک می کند تا به یاد داشته باشم که مستقیم بنشینم و به دنبال گزینه های دیگری در مورد خم شدن یا خم شدن برای به دست آوردن چیزی باشم.</seg>
+          <seg id="10">حتی فکر می کنید پشت شما را مستقیم نگه می دارد ، هنوز هم بسیار انعطاف پذیر است ، بنابراین مانع فعالیت های عادی شما نمی شود.</seg>
+          <seg id="11">من در تنفس مشکل ندارم.</seg>
+          <seg id="12">من از پوشیدن این چقدر راحت شوکه شدم.</seg>
+          <seg id="13">روز اول که آن را گرفتم ، منظورم این بود که یک ساعت آن را بپوشم تا آن را امتحان کنم و به پایان رسیدم فراموش کردم که روشن است و 4 ساعت آن را پوشیدم.</seg>
+          <seg id="14">مواد نرم است و روی پوست من احساس خوبی دارد.</seg>
+          <seg id="15">قلاب ها وظیفه سنگین و ساخته شده اند.</seg>
+          <seg id="16">یک منحنی یادگیری برای فهمیدن چگونگی اتصال آن و در همان زمان به اندازه کافی محکم وجود دارد.</seg>
+          <seg id="17">فقط چند روز طول کشید تا بهترین راه را برای من بفهمم.</seg>
+          <seg id="18">من بسیار خوشحالم که با گسترش دهنده همراه است ، بنابراین سطح بیشتری برای استفاده برای ادامه کوچکتر دارم.</seg>
+          <seg id="19">من واقعاً این محصول را دوست دارم و از آنجا که به اندازه های کوچکتر نیاز دارم ، به استفاده از آن ادامه خواهم داد.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="dela_v1" domain="Reviews" id="Reviews-10" origlang="en" src="https://www.amazon.com/gp/customer-reviews/R3SG7XK88PQ8QP/ref=cm_cr_getr_d_rvw_ttl?ie=UTF8&amp;ASIN=B07XD6F2ZK">
+      <src lang="en">
+        <p>
+          <seg id="1">Andover65</seg>
+          <seg id="2">It was exaclty what we were looking for</seg>
+          <seg id="3">Reviewed in the United States on January 8, 2021</seg>
+          <seg id="4">We have a friend whose kid loves Barbie and playing doctor/nurse.</seg>
+          <seg id="5">This gift was a perfect for her.</seg>
+          <seg id="6">The best of both her play worlds!</seg>
+          <seg id="7">Very reasonable price and fits right in with the rest of her Barbie collection.</seg>
+        </p>
+      </src>
+      <hyp lang="fas" system="google">
+        <p>
+          <seg id="1">andover65</seg>
+          <seg id="2">آنچه ما به دنبالش بودیم عجیب بود</seg>
+          <seg id="3">در 8 ژانویه 2021 در ایالات متحده بررسی شد</seg>
+          <seg id="4">ما دوستی داریم که بچه او باربی را دوست دارد و دکتر/پرستار بازی می کند.</seg>
+          <seg id="5">این هدیه برای او عالی بود.</seg>
+          <seg id="6">بهترین های هر دو دنیای نمایشنامه او!</seg>
+          <seg id="7">قیمت بسیار مناسب و مناسب با بقیه مجموعه باربی او است.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="dela_v1" domain="Reviews" id="Reviews-17" origlang="en" src="https://www.amazon.com/gp/customer-reviews/R24I18LTTKXU5H/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&amp;ASIN=B08KH367ZF">
+      <src lang="en">
+        <p>
+          <seg id="1">Tanis Coralee Leonhardi</seg>
+          <seg id="2">Caves, creatures, and picks oh my!</seg>
+          <seg id="3">Reviewed in the United States on March 11, 2020</seg>
+          <seg id="4">Sitting knees up, feet on seat of chair butterfly style is comfortable, I am happy that they included an adult doing that in a movie, yes it is still okay doing that as an adult!</seg>
+          <seg id="5">I even did it during group meetings (only sitting on the floor instead of a chair) as a phD candidate in geophysics at the University of California, Berkeley.</seg>
+          <seg id="6">Woohoo for childhood trends that are still acceptable as adults!</seg>
+          <seg id="7">Caves are fun to explore and can be very creepy, especially with lights out - they chose a great setting for this movie.</seg>
+          <seg id="8">Some creatures do not want to be seen and will pursue you until you are dead when you trespass on their land and touch their things without their consent.</seg>
+          <seg id="9">Will the group of women make it out alive?</seg>
+          <seg id="10">Or do the cave creatures eat them all alive?</seg>
+          <seg id="11">If ever caught in this situation, just remember cave creatures just want some peace and quiet and you are the ones who intruded on them.</seg>
+          <seg id="12">Also, a good reminder that things that live in caves can venture outside of caves.</seg>
+          <seg id="13">Some of the imagery is reminiscent of Norse Mythology and the mead of poetry.</seg>
+          <seg id="14">This movie would have been a lot shorter had the ladies not taken picks.</seg>
+          <seg id="15">Good and fast-moving entertainment for the latter portion.</seg>
+          <seg id="16">Takes a little set-up to get going in the first portion.</seg>
+        </p>
+      </src>
+      <hyp lang="fas" system="google">
+        <p>
+          <seg id="1">تانیس کورالی لئوناردی</seg>
+          <seg id="2">غارها ، موجودات و انتخاب های اوه من!</seg>
+          <seg id="3">در 11 مارس 2020 در ایالات متحده بررسی شد</seg>
+          <seg id="4">زانو در حال نشستن ، پاها روی صندلی صندلی پروانه ای به سبک وصل است ، من خوشحالم که آنها یک بزرگسال را در یک فیلم انجام می دهند ، بله هنوز هم خوب است که به عنوان یک بزرگسال این کار را انجام دهید!</seg>
+          <seg id="5">من حتی در جلسات گروهی (فقط به جای صندلی نشسته بودند) به عنوان کاندیدای دکترا در ژئوفیزیک در دانشگاه کالیفرنیا ، برکلی ، این کار را کردم.</seg>
+          <seg id="6">woohoo برای روند کودکی که هنوز هم به عنوان بزرگسالان قابل قبول هستند!</seg>
+          <seg id="7">غارها برای اکتشاف سرگرم کننده هستند و می توانند بسیار خزنده باشند ، به خصوص با چراغ های روشن - آنها یک تنظیم عالی برای این فیلم انتخاب کردند.</seg>
+          <seg id="8">برخی از موجودات نمی خواهند دیده شوند و تا زمانی که مرده باشید وقتی که به سرزمین آنها دست و پنجه نرم می کنید و بدون رضایت آنها ، چیزهای آنها را لمس می کنید ، شما را تعقیب می کنند.</seg>
+          <seg id="9">آیا گروه زنان آن را زنده می کنند؟</seg>
+          <seg id="10">یا آیا موجودات غار همه آنها را زنده می خورند؟</seg>
+          <seg id="11">اگر تا به حال در این شرایط گرفتار شده اید ، فقط به یاد داشته باشید که موجودات غار فقط آرامش و آرامش می خواهند و شما کسانی هستید که به آنها حمله می کنید.</seg>
+          <seg id="12">همچنین ، یادآوری خوبی که چیزهایی که در غارها زندگی می کنند می توانند در خارج از غارها قرار بگیرند.</seg>
+          <seg id="13">برخی از تصاویر یادآور اسطوره شناسی نورس و مراتع شعر است.</seg>
+          <seg id="14">اگر خانمها انتخابی نگرفتند ، این فیلم بسیار کوتاه تر بود.</seg>
+          <seg id="15">سرگرمی خوب و سریع برای بخش دوم.</seg>
+          <seg id="16">کمی تنظیم می کند تا در قسمت اول شرکت کنید.</seg>
+        </p>
+      </hyp>
+    </doc>
+  </collection>
+</dataset>

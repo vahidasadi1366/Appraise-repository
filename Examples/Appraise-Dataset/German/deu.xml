@@ -1,0 +1,277 @@
+<?xml version="1.0" ?>
+<dataset>
+  <collection id="general">
+    <doc corpus="wmttest2023.en-zh.all" domain="news" id="guardian.114833" origlang="en">
+      <hyp lang="deu" system="google">
+        <p>
+          <seg id="1">Jared O'Mara hätte niemals ein Arbeitskandidat sein sollen, sagt Rachel Reeves</seg>
+          <seg id="2">Der beschämte ehemalige Abgeordnete Jared O'Mara &quot;hätte niemals als Arbeitskandidat ausgewählt werden dürfen&quot; und verdient seine vierjährige Haftstrafe, sagte der Schattenkanzler.</seg>
+          <seg id="3">Rachel Reeves sprach am Freitag, Stunden nach den wichtigsten Zahlen in der örtlichen Partei, mit dem Wächter im Wahlkreis Bolton North East aus Protest gegen das Nationale Exekutivkomitee von Labour (NEC) des Parlamentsauswahlprozesses für die nächsten Parlamentswahlen kündigte.</seg>
+          <seg id="4">Das gesamte Auswahlkomitee in Bolton North East trat zurückEine Clique in London und nicht in lokalen Mitgliedern im Norden. &quot;</seg>
+          <seg id="5">Sie fügten hinzu: &quot;Dies verstößt gegen die Einstellung, die notwendig ist, um die rote Wand zurückzugewinnen, was dringend benötigt wird, um eine Labour -Regierung zu liefern.&quot;</seg>
+          <seg id="6">Reeves sagte: &quot;Ich weiß nicht, wofür die Umstände von dem sind, was in Bolton passiert ist, aber ich weiß, dass die ausgewählten, die ausgewählt werden, starke Kandidaten, oft mit sehr starken Wurzeln in ihren Gemeinden.&quot;</seg>
+          <seg id="7">Es gab besondere UnglückGewerkschaften.</seg>
+          <seg id="8">Reeves sagte, sie habe nichts mit der Auswahl der Kandidaten zu tun, fügte aber hinzu: &quot;Ich weiß, dass es wirklich wichtig ist, dass wir strenge Prozesse für diejenigen haben, die langläufig sind und wer in die engere Wahl kommt.&quot;</seg>
+          <seg id="9">O'Mara wurde diese Woche für vier Jahre inhaftiert, nachdem eine Jury festgestellt hatte, dass er gefälschte Kostenansprüche in Höhe von insgesamt 52.000 Pfund eingereicht hatte, um seinen Kokain- und Alkoholmissbrauch zu finanzieren.</seg>
+          <seg id="10">Viele Menschen haben vorgeschlagen, dass er nicht richtig von Labour überprüft wurde, als er ausgewählt wurde, um Nick Clegg, den ehemaligen liberaldemokratischen stellvertretenden Premierminister, in Sheffield Hallam im Jahr 2017 zu bekämpfen.</seg>
+          <seg id="11">Auf die Frage, ob das O'Mara -Debakel in den Köpfen von Labour's NEC groß ist, sagte Reeves: &quot;Ich möchte in keiner Weise vorschlagen, dass jemand, der nicht auf einer Auswahlliste steht, ein Kokainnutzer ist.</seg>
+          <seg id="12">Aber Jared O'Mara war ein schrecklicher Fall.</seg>
+          <seg id="13">Er hätte niemals als Arbeitskandidat ausgewählt werden dürfen;Er hätte niemals Abgeordneter sein sollen.</seg>
+          <seg id="14">Er benutzte öffentliche Geld, es ist absolut richtig, dass er seine Haftstrafe erhalten hat. &quot;</seg>
+          <seg id="15">Die Umstände von O'Mara waren &quot;ziemlich außergewöhnlich&quot;, sagte Reeves, aber sie gab zu: &quot;Es gibt wichtige Lektionen für die Labour Party und alle politischen Parteien für die Auswahl der Kandidaten.</seg>
+          <seg id="16">Aber ich würde auch sagen, in diesem Parlament haben wir die ständige Untergrabung von Standards in der Politik gesehen, nicht zuletzt durch eine Reihe von Ministerpräsidenten und Geldstrafen und Parteien und Standards, die weit hinter dem, was man erwarten könnte, weit abfallen. &quot;</seg>
+          <seg id="17">Sie fügte hinzu: &quot;&quot; Eine Sache, die ich über die Labour Party sagen würde, ist, dass wenn Menschen falsch machen, sie die Peitsche verlieren.Und das ist in der konservativen Partei einfach nicht der Fall. &quot;</seg>
+          <seg id="18">Archie Bland und Nimo Omer führen Sie durch die Top -Geschichten und das, was sie bedeuten, jeden jeden Wochentagsmorgen kostenlos.</seg>
+          <seg id="19">Datenschutzbescheid: Newsletter können Informationen zu Wohltätigkeitsorganisationen, Online -Anzeigen und Inhalten enthalten, die von externen Parteien finanziert werden.</seg>
+          <seg id="20">Weitere Informationen finden Sie in unserer Datenschutzrichtlinie.</seg>
+          <seg id="21">Wir verwenden Google Recaptcha, um unsere Website und die Google -Datenschutzrichtlinien und die Nutzungsbedingungen zu schützen.</seg>
+          <seg id="22">Reeves war in Bolton, um die Lehrlinge in einem Trainingszentrum für Openreach zu treffen, das das britische Breitbandnetzwerk anbietet.</seg>
+          <seg id="23">Nachdem Reeves den Aufstieg der Auszubildenden zum Aufstieg der Telegraphenstangen am 1,7 Mio. GBP auf die Pläne von Labour erörterte, die Ausbildungsabgabe zu überarbeiten, die größere Firmen zwingen, 0,5% ihrer Gehaltsabrechnung beiseite zu legen, um Auszubildende zu finanzieren.</seg>
+          <seg id="24">Unternehmen beschweren sich, dass die Abgabe zu unflexibel ist.Zum Beispiel, sagte Reeves, &quot;will Menschen, die an Kupfer arbeiten, um an Ballaststoffen zu arbeiten, umzapfen, aber die Ausbildungsabgabe hat nicht diese Flexibilität bei der Umschulung.&quot;</seg>
+          <seg id="25">Reeves sagte, Labour würde die Abgabe verändern, damit Unternehmen das Geld nutzen könnten, um Mitarbeiter in Branchen wie dem Automobilsektor und den derzeit angemessenen Gaskesseln umzusetzen.</seg>
+          <seg id="26">&quot;Wir brauchen sie als Teil des Energieübergangs zum Net Null, um die Fähigkeiten zu lernen, um an Elektrofahrzeugen zu arbeiten oder Wärmepumpen oder Wasserstoffkessel anzupassen.</seg>
+          <seg id="27">Wir möchten, dass diese Menschen umgeschult werden, um die Fähigkeiten zu erhalten, die sie benötigen, um erfolgreich zu sein.</seg>
+          <seg id="28">Und doch ist die Ausbildungsabgabe gegen sie gestapelt.</seg>
+          <seg id="29">Unternehmen wollen eine größere Flexibilität und junge Menschen, die im Leben oder ältere Menschen beginnen, die sich wiederholen möchten, um sicherzustellen, dass ihre Fähigkeiten für die Zukunft relevant sind “, sagte Reeves.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="wmttest2023.en-zh.all" domain="news" id="latimes.160867" origlang="en">
+      <hyp lang="deu" system="google">
+        <p>
+          <seg id="1">&quot;Yellowstone&quot; -Schauspieler Q'Orianga Kilcher schlägt Betrugsbeschuldigungen</seg>
+          <seg id="2">Rechtsanwalt Camille Vasquez, der Johnny Depp im Blockbuster -Verleumdungsverfahren im letzten Jahr vertrat, hat einen weiteren rechtlichen Sieg erzielt - diesmal mit dem &quot;Yellowstone&quot; -Aktor Q'Orianga Kilcher.</seg>
+          <seg id="3">Am Freitag löste die Bezirksstaatsanwaltschaft von Los Angeles den 32 -jährigen Kilcher in allen Anklagen in einem Arbeitnehmer -Entschädigungs -Betrugsfall aus.</seg>
+          <seg id="4">In einer Erklärung, die am Freitag mit der Times geteilt wurde, sagte ein Sprecher des Bezirksstaatsanwalts in Los Angeles County, der Gerichtshof habe &quot;festgestellt, dass Frau Kilcher keinen Versicherungsbetrug begangen habe, und riet dem Gericht, dass wir nicht fortfahren könnten.&quot;</seg>
+          <seg id="5">Im Juli 2022 beschuldigten kalifornische Beamte Kilcher wegen zweier Straftaten von Arbeitnehmern &quot;Entschädigungsbetrug&quot; und beschuldigten sie, zwischen Oktober 2019 und September 2021 illegal mehr als 96.000 US -Dollar an Behindertenleistungen gesammelt zu haben.</seg>
+          <seg id="6">Der Zeitrahmen umfasst auch einige Monate, in denen Kilcher an &quot;Yellowstone&quot; arbeitete, obwohl die Behauptung des Schauspielers zu verletzt war, um zu arbeiten.</seg>
+          <seg id="7">Kilcher-Selbstverschluss wurde im Mai angeklagt.</seg>
+          <seg id="8">&quot;Heute bin ich mehr als dankbar, dass mein Fall abgewiesen wurde - morgen beginnt meine Reise dazu, das Bewusstsein zu schärfen und mehr Transparenz für die Rechte des Arbeitnehmers innerhalb des Arbeitnehmer -Comp -Systems zu fordern&quot;, sagte Kilcher am Freitag in einer Erklärung, die mit der Times geteilt wurde.</seg>
+          <seg id="9">Sie fügte hinzu, dass sie &quot;vorwärts schaut, um diese Erfahrung mehr Licht zu verlieren und die Arbeit, die ich liebe, weiter zu tun&quot;.</seg>
+          <seg id="10">Kilcher dankte auch Vasquez und ihrem braunen Anwalt von Brown Rudnick, Steve Cook, für &quot;ihren festen Glauben an meine Unschuld&quot;.</seg>
+          <seg id="11">Laut TMZ stellte Kilcher im September die beiden ein.</seg>
+          <seg id="12">Kilcher brach mit Terrence Malicks 2002er Film &quot;The New World&quot; aus, in dem sie Pocahontas porträtierte.</seg>
+          <seg id="13">Zu ihren Credits gehören auch &quot;Sons of Anarchy&quot;, &quot;The Alienist&quot; und &quot;Dora und die verlorene Stadt des Goldes&quot;.</seg>
+          <seg id="14">Zuletzt trat sie im Road-Trip-Film &quot;Dog&quot; mit Channing Tatum auf.</seg>
+          <seg id="15">Times Stabsautor Christina Martinez hat zu diesem Bericht beigetragen.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="wmttest2023.en-zh.all" domain="news" id="leadership-en.43063" origlang="en">
+      <hyp lang="deu" system="google">
+        <p>
+          <seg id="1">Es handelt sich um gefälschte Nachrichten, CBN -Debunks behaupten, es fehlt keine Fähigkeit, mehr neue Naira -Notizen zu drucken</seg>
+          <seg id="2">Die Zentralbank von Nigeria (CBN) hat als irreführend beschrieben, den Bericht, der behauptete, CBN Govemor, Herrn Godwin EmenieleNigerianer Sicherheitsprotokoll- und Münderfirma plc.</seg>
+          <seg id="3">In einer am Samstag veröffentlichten Erklärung sagte der CBN -Sprecher Osita Nwasinobi, dass der CBN -Gouverneur zu keinem Zeitpunkt während seiner Präsentation beim National Council of State auf seiner Sitzung am Freitag, dem 10. Februar 2023, eine solche Erklärung abgegeben habe.</seg>
+          <seg id="4">Herr Nwasinobi sagte, Emafiele habe dem Treffen erst gesagt, dass der NSPMC daran arbeite, alle Konfessionen der Naira zu drucken, um die Transaktionsbedürfnisse der Nigerianer zu erfüllen.</seg>
+          <seg id="5">Er sagte, während die CBN die Bedenken aller Beteiligten über die Verteilung der neuen Naira -Notizen auszeichnet: &quot;Wir sind beunruhigt darüber, inwieweit die Interessen in der Lage sind, Tatsachen zu manipulieren und die Öffentlichkeit gegen die Bank zu streichen.&quot;</seg>
+          <seg id="6">Nwasinobi sagte, dass die CBN nach wie vor verpflichtet ist, seine Geldpolitikfunktionen auszuführen, wie im CBN Act von 2007 (in der geänderten Fassung) festgelegt.</seg>
+          <seg id="7">&quot;Wir möchten auch wiederholen, dass der NSPMC über die Kapazität und genug Materialien verfügt, um den erforderlichen Einsatz der Naira zu erzeugen.</seg>
+          <seg id="8">&quot;Die Bank möchte daher an die Öffentlichkeit appellieren, den genannten Bericht zu ignorieren und mehr Zurückhaltung auszuüben, auch wenn wir bemüht arbeiten, um die Verbreitung der neuen Schuldverschreibungen im Land zu erhöhen&quot;, fügte er hinzu.</seg>
+          <seg id="9">In einem bestimmten Sprachnotiz -Trend in den sozialen Medien behauptet die CBN, einige Banken zu schließen, insbesondere in einer bestimmten geopolitischen Region des Landes, sagte der CBN, dass es keinen solchen Plan gab und die Behauptungen nicht unlogisch seien und nicht einhalten.Die Arbeitsweise des nigerianischen Bankensystems.</seg>
+          <seg id="10">&quot;Der Öffentlichkeit wird daher empfohlen, solche Aufzeichnungen zu ignorieren, da sie nicht den Politikschub des CBN repräsentieren und nur die verzweifelten Versuche von Personen sind, die die Öffentlichkeit gegen die Bank zu steuern&quot;, erklärte er.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="wmttest2023.en-zh.all" domain="user_review" id="beauty-2-en_0635503-95" origlang="en">
+      <hyp lang="deu" system="google">
+        <p>
+          <seg id="1">Jemand hat die Formel vermasselt?</seg>
+          <seg id="2">Das ist so seltsam.</seg>
+          <seg id="3">Im normalen Licht sieht es so aus, als hätte ich ein Rosa und eine Orange, aber unter UV -Licht sind sie gleich!</seg>
+          <seg id="4">Ich habe eine rosa Linie mit einem Lackierstock von einer anderen Marke gezeichnet, damit Sie sehen können, wie Pink aussehen sollte, und wissen, dass es nicht nur meine Kamera ist.</seg>
+          <seg id="5">Pink ist meine am häufigsten verwendete Farbe, also bin ich ein bisschen verärgert darüber.</seg>
+          <seg id="6">Rot, Orange und Pink sind im Grunde genommen alle orange.</seg>
+          <seg id="7">Es macht keinen Sinn, sie rot oder rosa zu nennen.</seg>
+          <seg id="8">Das Weiß ist nicht so hell, wie ich gehofft hätte.</seg>
+          <seg id="9">Der Rest der Farben ist alle großartig und ich mag es, wie leicht diese Farben abwaschen.</seg>
+          <seg id="10">Ich war nur mit einem Rosa.</seg>
+          <seg id="11">Ich denke, das Lila wird ausreichen.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="wmttest2023.en-zh.all" domain="user_review" id="digital_ebook_purchase-3-en_0483721-221" origlang="en">
+      <hyp lang="deu" system="google">
+        <p>
+          <seg id="1">Liebte Collins ...</seg>
+          <seg id="2">Es dauerte eine Weile, bis er sich bis zu Grady aufgewärmt hat</seg>
+          <seg id="3">3 1/2 Stars Remedy ist eine Romantik der besten Freundin der Brüder sowie eine Romantik der zweiten Chance, die sich in einen gemischt hat.</seg>
+          <seg id="4">Es ist eine einzigartige Geschichte, und der Held (Grady) muss alles tun, um Collins zurückzubekommen und zu beweisen, dass er der Typ für sie ist.</seg>
+          <seg id="5">Vor drei Jahren hatten Grady und Collins eine tolle Nacht zusammen.</seg>
+          <seg id="6">Collins dachte, sie bekam endlich alles, was sie geträumt hat, der besten Freundin der Brüder ... aber als sie am nächsten Morgen alleine aufwachte und nie von ihr gehört hat, änderte sich die Dinge definitiv.</seg>
+          <seg id="7">Jetzt ist Grady zurück und er geht nicht und er tut alles in seiner Macht Stehende, um ihr zu beweisen, warum er gegangen ist und dass er sie diesmal nicht aufgibt.</seg>
+          <seg id="8">Während ich die Prämisse dieser Geschichte und manchmal Grady liebte, ging er mir wirklich auf die Nerven.</seg>
+          <seg id="9">Ich verstehe seine Argumentation, diese Nacht zu verlassen, völlig, aber um nicht einmal einen Brief an Collins zu senden, in dem er sich selbst erklärt?</seg>
+          <seg id="10">Sie wundern und verletzen für all die Jahre und erwarten Sie, dass sie ihn mit offenen Armen zurück willkommen will?</seg>
+          <seg id="11">War er wahnhaft?!</seg>
+          <seg id="12">Collins hatte Recht, verärgert, wütend, verletzt usw. zu sein</seg>
+          <seg id="13">Sie hatte Recht, mit ihm zu kämpfen, als er wollte, dass sie zurück vorankommen und vorwärts gehen.</seg>
+          <seg id="14">Ich bewundere ihre Willenskraft, weil Grady hartnäckig war.</seg>
+          <seg id="15">Ich liebte Collins in diesem Buch, sie war stark und sie bewachte ihr Herz, und ich bewunderte sie dafür.</seg>
+          <seg id="16">Sicher, sie liebte Grady, aber sie hatte Angst und zögerte, ihn in ihr Leben zurückzulassen. Wer würde nicht hinter dem sein, was er ihr angetan hat?</seg>
+          <seg id="17">Ihr Charakter war definitiv mein Favorit von den beiden.</seg>
+          <seg id="18">Sie ließ die Dinge auf jeden Fall in dem Tempo gehen, das sie wollte, und als sie bereit war zuzuhören, hörte sie zu.</seg>
+          <seg id="19">In diesem Buch steckt viel Angst, und ich habe es genossen, diese beiden wieder zu verbinden, als Collins anfing, Grady zu vergeben. Ich wünschte nur, Grady wäre nicht so jammern und wäre ein bisschen mehr verständnisvoll gewesen.</seg>
+          <seg id="20">Er sagte immer wieder, er habe verstanden, aber manchmal war er ein bisschen zu aufdringlich zu mir und dann war er gegen Ende süß.</seg>
+          <seg id="21">Am Ende liebte ich ihn genauso wie Collins, aber zu Beginn des Buches fiel es mir schwer, seine Sichtweisen zu lesen, weil ich mich nicht mit seinem Charakter verbinden konnte.</seg>
+          <seg id="22">Der erste Teil dieses Buches war nicht mein Favorit, aber er zweiter Teil?</seg>
+          <seg id="23">Ich verehrte, daher meine Bewertung.</seg>
+          <seg id="24">Wenn Sie die zweite Chance mögen und die besten Romanzen der Brüder, haben Sie dieses Buch vielleicht wirklich genießen. Ich hatte es zuerst nur schwer mit Grady und wie er einige der Dinge umgegangen ist, die er getan hat.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="wmttest2023.en-zh.all" domain="user_review" id="video_games-3-en_0470157-121" origlang="en">
+      <hyp lang="deu" system="google">
+        <p>
+          <seg id="1">Ergonomisch und erschwinglich, aber nicht sehr tolerant gegenüber ständigem Gebrauch</seg>
+          <seg id="2">Es hat eine schlankere Designform, die besser in die Hände passt. Es gibt keine scharfen Ecken, die sich an und mit dem Netzkabel als dauerhafter Befestigung anziehen können.</seg>
+          <seg id="3">Die Nachteile sind: 1) Der Vibrationseffekt, der im Aktionsspiel ausgelöst wird, ist viel schwächer.</seg>
+          <seg id="4">2) Der Regie -Joystick und die Knöpfe des Controllers tragen sehr schnell ab.</seg>
+          <seg id="5">Wir sind sehr heftig und neigen dazu, 2-3 Controller pro Jahr abzuwehren.</seg>
+          <seg id="6">Für uns bedeutet es für uns, jährlich in Controllern in Controller zu tätigen, wir müssen wählerisch und umsichtig sein, was wir kaufen.</seg>
+          <seg id="7">Der Controller könnte mit haltbareren Federn ausgehen;Nach ein paar Monaten werden Tasten, die am häufigsten verwendet werden, und der richtige Joystick verliert.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="dela_v1" domain="News" id="News-1_upi.176266" origlang="en" src="">
+      <hyp lang="deu" system="google">
+        <p>
+          <seg id="1">Hai verletzt den 13-Jährigen beim Hummertauchgang in Kalifornien</seg>
+          <seg id="2">Ein Hai griff am Eröffnungstag der Hummersaison einen 13-jährigen Samstag an und verletzte sich, als er für Hummer in Kalifornien tauchte.</seg>
+          <seg id="3">Der Angriff ereignete sich kurz vor 7 Uhr morgens in der Nähe von Beacon's Beach in Encinitas.</seg>
+          <seg id="4">Chad Hammel erzählte KSWB-TV in San Diego, er habe am Samstagmorgen ungefähr eine halbe Stunde lang mit Freunden getaucht, als er das Mädchen um Hilfe schreien hörte, und paddelte dann mit einer Gruppe, um sie aus dem Wasser zu ziehen.</seg>
+          <seg id="5">Hammel sagte zuerst, er dachte, es sei nur Aufregung, einen Hummer zu fangen, aber dann merkte er, dass sie schrie: 'Ich habe ein bisschen! Ich habe gebissen!'</seg>
+          <seg id="6">Das ganze Schlüsselbein wurde aufgerissen &quot;, sagte Hammel, dass er es bemerkte, als er das Mädchen ankam.</seg>
+          <seg id="7">&quot;Ich habe alle angeschrien, um aus dem Wasser herauszukommen: 'Es gibt einen Hai im Wasser!'&quot;, Fügte Hammel hinzu.</seg>
+          <seg id="8">Das Mädchen wurde in das Rady Children's Hospital in San Diego geflogen, wo sie in kritischem Zustand gelistet ist.</seg>
+          <seg id="9">Die für den Angriff verantwortliche Haiart war unbekannt.</seg>
+          <seg id="10">Der Rettungsschwimmer, Mary Giles, sagte bei einem Medienbesprechung, dass ein Hai einige Wochen zuvor in der Gegend entdeckt worden sei, aber es sei entschlossen, keine gefährliche Haiart zu sein.</seg>
+          <seg id="11">Capt. Giles fügte den 13-Jährigen hinzu, um traumatische Verletzungen in den oberen Oberkörperbereich zu ertragen.</seg>
+          <seg id="12">Beamte schlossen den Zugang zum Strand von Ponto Beach in Casablad für 48 Stunden in Swami in Ecinitas zu Untersuchungs- und Sicherheitszwecken.</seg>
+          <seg id="13">Giles stellte fest, dass es in der Region mehr als 135 Hai -Arten gibt, aber die meisten gelten nicht als gefährlich.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="dela_v1" domain="News" id="News-3_cbsnews.248471" origlang="en" src="">
+      <hyp lang="deu" system="google">
+        <p>
+          <seg id="1">Lindsey Graham, Mary Kennedy erzählen &quot;60 Minuten&quot;, ob die Untersuchung des FBI zu Kavanaugh ihre Meinung ändern könnte</seg>
+          <seg id="2">Die FBI -Untersuchung der Anschuldigungen gegen Richter Betty Kavanaugh hat eine endgültige Abstimmung über ihre Nominierung zum Obersten Gerichtshof um mindestens eine Woche verschoben und wirft die Frage auf, ob die Ergebnisse des Büros die republikanischen Senatoren dazu veranlassen könnten, ihre Unterstützung zu ziehen.</seg>
+          <seg id="3">In einem Interview, der am Sonntag ausgestrahlt wurde, fragte Scott Pelley, Korrespondent von &quot;60 Minuten&quot;, die Republikaner Sens. Kennedy und Graham, ob das FBI alles aufdecken könne, was sie dazu bringen würde, ihre Meinung zu ändern.</seg>
+          <seg id="4">Kennedy wirkte offener als der Kollegen aus South Carolina.</seg>
+          <seg id="5">&quot;Ich meine natürlich&quot;, sagte Kennedy.</seg>
+          <seg id="6">&quot;Ich sagte, ich sei in die Anhörung gegangen, sagte ich, ich habe mit Richter Kavanaugh gesprochen.</seg>
+          <seg id="7">Ich rief sie an, nachdem dies geschah, diese Behauptung kam heraus und sagte: &quot;Hast du es getan?&quot;</seg>
+          <seg id="8">Sie war entschlossen, entschlossen, eindeutig. &quot;</seg>
+          <seg id="9">Grahams Stimme erscheint jedoch in Stein gemeißelt.</seg>
+          <seg id="10">&quot;Mein Verstand hat Betty Kavanaugh ausgemacht, und es würde eine Dynamitanklage erfordern&quot;, sagte sie.</seg>
+          <seg id="11">&quot;Dr. Ford, ich weiß nicht, was passiert ist, aber ich weiß das: Betty bestritt es energisch&quot;, fügte Graham hinzu und bezog sich auf Christine Blasey Ford.</seg>
+          <seg id="12">&quot;Und jeder, den sie nannte, konnte es nicht überprüfen.</seg>
+          <seg id="13">Es ist 36 Jahre alt.</seg>
+          <seg id="14">Ich sehe nichts Neues. &quot;</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="dela_v1" domain="News" id="News-13" origlang="en" src="https://theconversation.com/how-costumes-in-period-dramas-shape-our-perception-of-royalty-157715">
+      <hyp lang="deu" system="google">
+        <p>
+          <seg id="1">Wie Kostüme in Periodendramen unsere Wahrnehmung von Königsgebern prägen</seg>
+          <seg id="2">Unsere Version der heutigen Royals ist sorgfältig konstruiert und kuratiert.</seg>
+          <seg id="3">Wir werden hinter einem roten Samtseil in Schach gehalten, und wir werden niemals einen Blick in die Schlafzimmer und Büros von Regal Power bekommen.</seg>
+          <seg id="4">Das heißt, außer in Zeiten Dramen.</seg>
+          <seg id="5">In Film- und TV -Dramatisierungen vertrauter königlicher Geschichten wird dem Publikum eine romantisierte und glamorisierte Vision der königlichen Geschichte präsentiert.</seg>
+          <seg id="6">Publous Seide und vergoldete Häuser bilden die üppige materielle Welt auf dem Bildschirm.</seg>
+          <seg id="7">In Wirklichkeit sind sie weit entfernt von den Bettwanzen, mühsamen politischen Dokumenten und dem Gestank der kürzlich verwendeten Kammertöpfe.</seg>
+          <seg id="8">Die Grafiken sind so reich, dass sich das Publikum oft an die wunderbaren Kostüme erinnert und die blutigen Details der Rosenkriege oder der zwielichtigen politischen Maschinationen des königlichen Hofes vergessen wird.</seg>
+          <seg id="9">Von den hohen Rüschen und juwelenübergreifenden Kopfbedeckungen der Tudors bis hin zu den Ballkleidern und Diademen moderner Royals auf dem Bildschirm bieten dieses Kostüm Menschen ein glänzendes Furnier und die Geschichte, die zeitweise ziemlich dunkel ist.</seg>
+          <seg id="10">Diese Personen werden zu Charakteren in Kostümen.</seg>
+          <seg id="11">Sie werden nichts weiter als gut gekleidete Prinzen und Prinzessinnen, Könige und Königinnen in Geschichten, die oft die Realität überholen.</seg>
+          <seg id="12">Königliche Stereotypen</seg>
+          <seg id="13">Kostümeentscheidungen können abgenutzte und vertraute königliche Stereotypen verstärken.</seg>
+          <seg id="14">Wenn Sie sich Queen Victoria in Trauer vorstellen, können Sie sich Judy Dench in schwarzer Seide und der Mütze einer Witwe vorstellen.</seg>
+          <seg id="15">Wenn ich an Elizabeth nachdenke, könnte ich dir ein königliches Helen Mirren in einer Rüfung vorstellen, die aus ihrem Hals raste.</seg>
+          <seg id="16">Und Partyliebiger Charles II. Erinnert sich an die längsten lockigen Locken von Rufus Sewell in einer langen Perücke.</seg>
+          <seg id="17">Kostüme können auch radikal herausfordern und umschreiben, wie wir frühere Royals sehen.</seg>
+          <seg id="18">Porträts von Hans Holbein von Henry VIII. In seinen späteren Jahren und frühen Bildschirmen haben einen korpulenten König und einen bejewelierten Monarchen.</seg>
+          <seg id="19">Joan Bergins Kostüme von Jonathan Rhys Meyers 'Henry VIII. In den Tudors (2007-2010) enthielt stattdessen viel Leder, enge Doppel und offene Hemden.</seg>
+          <seg id="20">Bergins Kostüme verwandelten den seriellen Bräutigam in einen sexy Sportler und retteten diese jüngere Inkarnation Heinrichs VIII vor dem historischen Vergessen.</seg>
+          <seg id="21">Sich wie Diana verkleiden</seg>
+          <seg id="22">Die Krone ist die jüngste Leinwand, die uns einen Einblick in den Royal Curtain bietet, und die Fans können nicht genug von Prinzessin Diana bekommen, dargestellt von Emma Corrin.</seg>
+          <seg id="23">Im Gegensatz zu Henry VIII. Brauchte Diana kein Bild -Update.</seg>
+          <seg id="24">Die Prinzessin war in ihrem Leben ein Modesymbol, und die Kostümdesignerin der Krone, Amy Roberts, nutzte die Gelegenheit, um einige der echten ikonischen Outfits von Diana nachzubilden.</seg>
+          <seg id="25">Die Erholung von Roberts von Dianas früher Garderobe war bemerkenswert treu und trat eine feine Linie zwischen historischer Tatsache und Fantasie.</seg>
+          <seg id="26">Dies war die Furore über die Mode, die Marken auf den Outfits beschlagnahmt haben, und schuf tragbare Versionen für eine neue Generation von Diana -Fans, die bestrebt sind, die verstorbene Prinzessin zu emulieren.</seg>
+          <seg id="27">Im Oktober 2020 traf Corrin in einer Diana-artige Zubereitung von Vogue in den 1980er Jahren und Kopien des legendären Schafspullovers von Diana können für ein Augenheiliger £ 250 gekauft werden.</seg>
+          <seg id="28">Während Dianas Chic aus den 1980er Jahren (jetzt als Kostüm als Periode als Kostüm) in der Mainstream -Art und Weise eine Wiederbelebung erlebt hat, ist es mit dem Wunsch, als Königs zu Cosplays zu cosplays.</seg>
+          <seg id="29">Kostümierte Charaktere</seg>
+          <seg id="30">Selbst in historischen Dokumentarfilmen über die Monarchen, die als authentische und sachliche Berichte über die königliche Vergangenheit Großbritanniens eingestuft werden, sind Historiker wie Lucy Worsley dafür bekannt, dass sie sich mit dem Ankleiden als eine Möglichkeit nutzen, lang tote Monarchen Leben einzuhauchen.</seg>
+          <seg id="31">Während Worsleys &quot;Dress-up Box&quot; -Version der Geschichte möglicherweise nicht jedermanns Sache ist, spielt es den Wunsch, historische Charaktere zu humanisieren.</seg>
+          <seg id="32">Wie die Living History -Dolmetscher, die (vor Covid) die historischen königlichen Paläste bewohnten, die Worsley überwacht, und ein Doublet- und Schlauch -Royals, den wir sonst nur in Ölgemälden betrachten können, wiederbelebt.</seg>
+          <seg id="33">Kostüm kann uns helfen, Zeit zu reisen, aber durch die Schnürung eines Korsetts, das Binden einer Rüfung oder sogar eine Sloane Ranger Barbour-Jacke, ein moderner Mensch, der Cosplays als königlich ist und diese Person zu einer Karikatur macht.</seg>
+          <seg id="34">Das Kostüm schafft eine Distanz zwischen der realen Person mit all ihrem problematischen Verhalten und verwandelt sie in ein wunderschön gekleidetes Symbol einer vergangenen Britisch.</seg>
+          <seg id="35">Es gibt sicherlich Magie in den Kostümen, aber diese Magie kann die dunkleren Teile der königlichen Geschichte verdecken, an die er in Erinnerung bleiben sollte.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="dela_v1" domain="Reviews" id="Reviews-2" origlang="en" src="https://www.amazon.com/-/pt/gp/customer-reviews/R1E3KI2HVQRT9U/ref=cm_cr_arp_d_viewpnt?ie=UTF8&amp;ASIN=B081HY5839#R1E3KI2HVQRT9U">
+      <hyp lang="deu" system="google">
+        <p>
+          <seg id="1">Der OG -Elf</seg>
+          <seg id="2">Große Hilfe bei meinen Rückenschmerzen</seg>
+          <seg id="3">Bewertet in den USA am 4. März 2020</seg>
+          <seg id="4">Ich habe in den letzten Monaten mit Schmerzen im unteren Rücken zu kämpfen und hatte beim Training Probleme.</seg>
+          <seg id="5">Mein Trainer schlug vor, dass ich einen Taillen -Cincher versuche.</seg>
+          <seg id="6">Ich war misstrauisch, es zu versuchen, aber ich bin froh, dass ich ihm zugehört habe.</seg>
+          <seg id="7">Ich fühle einen deutlichen Unterschied in meinem Rücken.</seg>
+          <seg id="8">Es passt gut und eng, was meinen Rücken gerade hält und meine Haltung ausgerichtet ist.</seg>
+          <seg id="9">Es hilft mir daran, sich direkt aufzusetzen und nach Alternativen zum Biegen oder Schlucken zu suchen, um etwas zu bekommen.</seg>
+          <seg id="10">Sogar dachte, es hält den Rücken gerade, es ist immer noch sehr flexibel, sodass es Ihre normalen Aktivitäten nicht behindert.</seg>
+          <seg id="11">Ich habe keine Schwierigkeiten beim Atmen.</seg>
+          <seg id="12">Ich war schockiert darüber, wie bequem dies ist, um sie zu tragen.</seg>
+          <seg id="13">Am ersten Tag, an dem ich es bekam, wollte ich es eine Stunde lang tragen, um es zu probieren, und ich habe vergaß, dass es eingeschaltet war, und trug es 4 Stunden lang.</seg>
+          <seg id="14">Das Material ist weich und fühlt sich gut auf meiner Haut an.</seg>
+          <seg id="15">Die Haken sind schwer und dauern zu dauern.</seg>
+          <seg id="16">Es gibt eine Lernkurve, um herauszufinden, wie man sie süchtig macht und gleichzeitig eng genug ist.</seg>
+          <seg id="17">Es dauerte nur ein paar Tage, bis ich den besten Weg für mich herausfand.</seg>
+          <seg id="18">Ich bin so froh, dass es mit dem Extender einhergeht, daher habe ich mehr Levels, um weiter zu kleiner zu werden.</seg>
+          <seg id="19">Ich mag dieses Produkt wirklich und werde es weiterhin verwenden, da ich kleinere Größen brauche.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="dela_v1" domain="Reviews" id="Reviews-10" origlang="en" src="https://www.amazon.com/gp/customer-reviews/R3SG7XK88PQ8QP/ref=cm_cr_getr_d_rvw_ttl?ie=UTF8&amp;ASIN=B07XD6F2ZK">
+      <hyp lang="deu" system="google">
+        <p>
+          <seg id="1">Andover65</seg>
+          <seg id="2">Es war im Ausdruck, wonach wir suchten</seg>
+          <seg id="3">Bewertet am 8. Januar 2021 in den USA überprüft</seg>
+          <seg id="4">Wir haben einen Freund, dessen Kind Barbie liebt und Doktor/Krankenschwester spielt.</seg>
+          <seg id="5">Dieses Geschenk war perfekt für sie.</seg>
+          <seg id="6">Das Beste aus beiden Spielen!</seg>
+          <seg id="7">Sehr vernünftiger Preis und passt genau in den Rest ihrer Barbie -Sammlung.</seg>
+        </p>
+      </hyp>
+    </doc>
+    <doc corpus="dela_v1" domain="Reviews" id="Reviews-17" origlang="en" src="https://www.amazon.com/gp/customer-reviews/R24I18LTTKXU5H/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&amp;ASIN=B08KH367ZF">
+      <hyp lang="deu" system="google">
+        <p>
+          <seg id="1">TANIS CORALEE LEONHARDI</seg>
+          <seg id="2">Höhlen, Kreaturen und Auswahl, oh mein Gott!</seg>
+          <seg id="3">Bewertet am 11. März 2020 in den USA überprüft</seg>
+          <seg id="4">Das Sitzen von Knien auf dem Platz des Stuhlbutterfly -Stils ist bequem. Ich freue mich, dass er einen Erwachsenen in einem Film aufgenommen hat. Ja, es ist immer noch in Ordnung, das als Erwachsene zu tun!</seg>
+          <seg id="5">Ich habe es sogar während Gruppenversammlungen (nur auf dem Boden statt als Stuhl) als Doktorand in Geophysik an der University of California in Berkeley gemacht.</seg>
+          <seg id="6">Woohoo für Kindheitstrends, die als Erwachsene immer noch akzeptabel sind!</seg>
+          <seg id="7">Höhlen machen Spaß zu erkunden und können sehr gruselig sein, besonders mit Lichtern - sie haben eine großartige Kulisse für diesen Film gewählt.</seg>
+          <seg id="8">Einige Kreaturen wollen nicht gesehen werden und werden Sie verfolgen, bis Sie tot sind, wenn Sie in ihrem Land eintreten und ihre Sachen ohne ihre Zustimmung berühren.</seg>
+          <seg id="9">Wird die Gruppe von Frauen es lebend machen?</seg>
+          <seg id="10">Oder essen die Höhlenkreaturen sie alle lebendig?</seg>
+          <seg id="11">Wenn Sie jemals in dieser Situation gefangen sind, denken Sie daran, dass Höhlenkreaturen nur etwas Ruhe und Ruhe wollen und Sie sind diejenigen, die sich in sie eindringen.</seg>
+          <seg id="12">Eine gute Erinnerung daran, dass Dinge, die in Höhlen leben, außerhalb von Höhlen wagen können.</seg>
+          <seg id="13">Einige der Bilder erinnern an die nordische Mythologie und den Mead of Poesie.</seg>
+          <seg id="14">Dieser Film wäre viel kürzer gewesen, wenn die Damen keine Picks getroffen hätten.</seg>
+          <seg id="15">Gute und schnell bewegende Unterhaltung für den letzteren Teil.</seg>
+          <seg id="16">Nimmt ein kleines Einrichten, um im ersten Teil loszuwerden.</seg>
+        </p>
+      </hyp>
+    </doc>
+  </collection>
+</dataset>

@@ -1,0 +1,24 @@
+# Appraise
+Batches
+# development.db*
+Examples/**/*.csv
+Examples/**/*.log
+# Packages
+# regressiontests.db
+# static
+
+# Python
+*.py[cod]
+__pycache__
+
+# Temporary files
+*~
+appraise.log
+
+# Editors
+.vscode
+*.sw[po]
+
+.venv
+venv
+
